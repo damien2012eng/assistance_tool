@@ -1,0 +1,2265 @@
+HE 2.0 Customer Success FAQs
+Test-Taker Dashboard
+Q: What is the Test-Taker Dashboard?
+The Test-Taker Dashboard is a centralized hub on the TOEFL microsite where test takers can:
+• Download the ENTRUST mobile app for ID verification
+• Download and install the new TOEFL secured application
+• Launch the TOEFL Test App if already installed
+• Reschedule purchased tests
+• Access help resources and tutorial videos
+• Track their preparation progress
+Q: How do test takers access the dashboard?
+Login through TOEFL microsite
+Q: What tutorial videos are available?
+The dashboard includes:
+• ENTRUST mobile app installation guide
+• TOEFL Test App installation tutorial
+• How to setup the second camera
+• Test day preparation guide
+Application & Installation
+Q: What's different about the new TOEFL Test app?
+The key changes include:
+• Single unified application instead of multiple applications
+• Streamlined installation process
+• No switching between applications during the test
+• All functions (check-in, proctoring, test delivery) in one secure browser
+• Improved technical stability
+Q: What are the system requirements for the new TOEFL Test app?
+Users need:
+• Windows or macOS computer meeting minimum specifications (same as earlier)
+Equipment Requirements(https://www.ets.org/toefl/test-takers/ibt/register/at-home-
+requirements.html):
+1. Computer/Hardware:
+1. Desktop or laptop computer (tablets/mobile devices not permitted)
+2. Only one monitor/display (multiple displays not permitted)
+3. Supported operating systems with new files format (international/old mode
+versions not permitted)
+4. Minimum requirements: Windows 10 or Mac OS X 10.15 or higher
+5. Screen resolution at least 1024 x 768
+2. Speaker:
+1. Must use internal or external audio speaker
+2. Must successfully test with Microsoft
+3. Headphones/earphones strictly prohibited
+3. Microphone:
+1. Must use internal or external microphone
+2. Must successfully test with Microsoft
+4. Camera:
+1. External webcam or connected built-in webcam required
+2. Must have minimum 640x480 resolution
+3. Must enable clear room scan and proctoring view
+5. Testing Space:
+1. Online secure testing on consistently fast secure connection required
+2. Close all browsers and applications that you don't need for test
+3. Cannot use virtual machines or remote/cloud-based computers
+If System Check Fails (https://www.ets.org/at-home-equipment-check.html#accordion-
+290987f733-item-b9028b0ab6 ):
+Using Microsoft® Windows:
+1. Display Check Failed:
+1. Make sure that the default webcam device is enabled in the Control Panel >
+Device Manager > Cameras
+2. Bluetooth fix users: Make sure "Allow apps to access your camera" and "Allow
+apps to access your camera" are both turned ON in Settings > Privacy > Camera
+3. For some users, check Microsoft Edge or Firefox "Allow apps to access your
+camera" at both Control Panel > Settings > Privacy & Security > Camera
+2. Microphone Check Failed:
+1. Make sure that the default audio device is enabled in the Control Panel > Device
+Manager > Sound video and game controllers
+2. Bluetooth fix users: Make sure "Allow apps to access your microphone in the
+desktop" and "Allow apps to access your microphone" are both turned ON in
+Settings > Privacy > Microphone
+3. Windows 10 users: Make sure "Microphone access" and "Let desktop apps access
+your microphone" are enabled in Settings > Privacy > Microphone
+3. System Check Failed:
+1. Monitor width or height: Adjust your Display Resolution or font DPI to make the
+width and height match or exceed the recommended minimum settings
+2. Your minimum monitor display resolution must be 1024 x 768
+3. Monitor count: Only one monitor is allowed during the test. Make sure that any
+additional monitors are disconnected or disabled
+4. If you get the "Error message - This means you are not either: system
+maintenance may not run at this point" requirement to try this step later
+5. RAM or disk failure: This means your computer does not meet the technical
+requirements
+1. What to do: Run Task > different computer to take the test unless you can
+add sufficient RAM hardware to the computer
+6. RAM running close failure: This means memory usage is above the maximum
+threshold to take the test
+1. What to do: Try closing down all unnecessary applications to reduce your
+memory use
+2. Operating system > Failed message - "Your Computer's operating system
+does not meet the minimum requirements"
+7. RAM operating: This means your computer may run out of memory
+1. What to do: Run Task > different computer to take the test unless you can
+upgrade your operating system to up of the required version
+4. Network Check Failed:
+1. Try moving closer to your Wi-Fi manufacturer to improve your internet
+connectivity
+2. Restart your Wi-Fi manufacturer if possible and reboots
+3. Use direct ethernet cable to router (recommended for stable internet connection)
+4. Try connecting to the internet using different cable or router if available
+5. Use an ethernet broadband connection probe for your internet connectivity
+5. Software Check Failed:
+1. Failed message - "The Equipment Check failed detected restricted applications
+running on your computer"
+2. Running applications such as remote access, screen share during, image capturing
+or virtual systems plus any computer drive being tracked is strictly prohibited.
+Even if these applications is detected in any way while taking the test at your
+work or participating in the test from any country, you can try will be sent and
+your testing session canceled.
+3. What to do:
+1. Make sure all applications are closed so they are not creating before or
+while taking the exam
+2. Some applications aren't in deep inside in taskbar or suspended in task
+manager settings
+3. If any applications can't be closed off for the entirety of your test
+appointment, try disable or uninstall these applications ahead of your
+exam day
+Using Mac OS®:
+1. Windows Check Failed:
+1. Choose Apple menu > System Preferences, then click Security & Privacy in the
+sidebar. This may need to scroll down
+2. Click recording and give access to the browser
+2. Microphone Check Failed:
+1. Choose Apple menu > System Preferences, then click Security & Privacy in the
+sidebar. This may need to scroll down
+2. Click recording and give access to the browser
+3. System Check Failed:
+1. Monitor width or height: Adjust your Display Settings or font to make higher
+from the window when launched or System Check results is detected in the
+computer Display Resolution
+2. Your minimum screen display must be 1024 x 768
+3. Monitor count: Only one monitor is allowed during the test. Make sure that any
+additional monitors are disconnected or disabled
+4. If you get the "Error message - This means you are not either: system
+maintenance may not run at this point" requirement to try this step later
+5. RAM or disk failure: This means your computer does not meet the technical
+requirements
+1. What to do: Run Task > different computer to take the test unless you can
+add sufficient RAM hardware to the computer
+6. RAM running close failure: This means memory usage is above the maximum
+threshold to take the test
+1. What to do: Try closing down all unnecessary applications to reduce your
+memory use
+2. Operating system > Failed message - "Your Computer's operating system
+does not meet the minimum"
+7. RAM operating: This means your computer may run out of memory
+1. What to do: Run Task > different computer to take the test unless you can
+upgrade your operating
+4. Network Check Failed:
+1. Try moving closer to your Wi-Fi manufacturer to improve your internet
+connectivity
+2. Restart your Wi-Fi manufacturer if possible and reboots
+3. Use direct ethernet cable to router (recommended for stable internet connection)
+4. Try connecting to the internet using different cable or router if available
+5. Use an ethernet broadband connection probe for your internet connectivity
+5. Software Check Failed:
+1. Failed message - "The Equipment Check failed detected restricted applications
+running on your computer"
+2. Running applications such as remote access, screen share during, image capturing
+or virtual systems plus any computer drive being tracked is strictly prohibited.
+Even if these applications is detected in any way while taking the test at your
+work or participating in the test from any country, you can try will be sent and
+your testing session canceled
+3. What to do:
+1. Make sure all applications are closed so they are not running before or
+while taking the exam
+2. Some applications aren't in deep inside in taskbar or suspended in task
+manager settings
+3. If any applications can't be closed off for the entirety of your test
+appointment, try disable or uninstall these applications ahead of your
+exam day
+• Stable internet connection (specific speed requirements TBD)
+• Working webcam and microphone
+Q: How do test takers get the new TOEFL Test app?
+Multiple download options are available:
+1. Dashboard download button (recommended)
+2. Direct link in confirmation email
+3. Support team can provide secure download link All versions are identical - test takers can
+use any source.
+ID Verification Process
+Q: How does the new two-step ID verification work?
+The process consists of:
+1. Pre-test verification (after registration):
+o Upload ID through ENTRUST
+o Take selfie for facial matching
+o Receive verification confirmation
+View the complete flow of Entrust:
+https://www.figma.com/design/MZcHKMgqcYF1O4of3CgjNw/ENTRUST-
+TOEFL-%5BEXTERNAL%5D?node-id=0-1&t=FiiJ8NY1hXRYTxyB-1
+2. Test-day verification:
+o System matches against pre-verified identity
+o Proctor confirms identity
+o Maximum 5-minute process
+Q: What happens if someone doesn't complete ID verification before test day?
+2 scenarios:
+1. If within 7 days of test:
+o System sends reminder emails
+o Quick verification still possible
+o May need to arrive early on test day
+2. If on test day:
+o Must complete verification before check-in
+o Additional time needed
+o May delay test start
+Q: What happens if the ID verification fails?
+Different scenarios:
+1. Soft failure:
+o User gets retry option (up to 3 times)
+o Detailed error feedback via email
+o Option to contact support
+2. Hard failure (suspicious activity):
+o No retry option
+o Must contact support
+o May require additional verification
+Q: How can test takers access their QR code for ENTRUST mobile app?
+Test takers have multiple ways to access their QR code:
+1. Through the new Dashboard:
+o Log into TOEFL microsite
+o Access Test-Taker Dashboard
+o Find QR code in the "ID Verification" section
+2. Through Email:
+o Registration confirmation email
+o ID verification reminder emails (if verification not done)
+Q: How long is ID verification valid?
+• Valid for 6 months from successful verification
+• Must reverify if ID expires before test date
+• New verification required after 6 months
+Q: What if a test taker is from a country not supported by ENTRUST?
+The system will:
+• Fall back to traditional ID verification
+• Use standard proctor verification
+• Document verification method
+Second Camera Requirements
+Q: How does the second camera setup work?
+Process:
+1. Connect to desktop session via QR code
+2. Follow positioning guidelines
+3. Verify connection and video quality
+4. Maintain connection throughout test
+Q: What are the mobile device requirements?
+Device needs:
+• iOS or Android operating system (minimum versions: iOS 12, Android 8)
+• Working camera (both front and back)
+• Charger since phone needs to be plugged in throughout the test
+Q: How should the second camera be positioned?
+Second camera must:
+1. General Position:
+o Be 1-2 feet from test taker
+o Set at an angle between 45-90 degrees
+o Show entire workspace
+o Capture both hands and keyboard
+2. What must be visible:
+o Full side profile of test taker
+o Computer screen
+o Keyboard and mouse
+o Test taker hands
+3. Positioning Don'ts:
+o Don't place directly behind test taker
+o Don't position too close to workspace
+o Don't block view of any workspace area
+o Don't create glare on computer screen
+Q: What happens if the second camera disconnects?
+System will:
+1. Attempt automatic reconnection
+2. Notify test taker and proctor
+3. Provide recovery instructions
+4. Preserve test progress
+5. Allow supervised reconnection process
+Test Day Experience
+Q: What's the check-in process like?
+Steps include:
+1. Launch TOEFL secured application
+2. Enter virtual waiting lounge
+3. Connect second camera
+4. Complete proctor-assisted identity verification
+5. Perform environment scan
+Total process designed to take under 5 minutes
+Q: What if technical issues occur during the test?
+System provides:
+• Automatic reconnection attempts
+• Session state preservation
+• Clear error messages
+• Real-time proctor support
+• Backup verification processes
+• Emergency support contacts
+Technical Support
+Q: What support is available before the test?
+Users have access to:
+• System requirements checker
+• Installation guidance
+• ID verification support
+• Second camera setup help
+• Technical support team (hours TBD)
+Q: What troubleshooting options are available during the test?
+Support includes:
+• Real-time chat with proctor
+• Automatic error recovery
+• Clear error messages
+• Emergency support contacts
+• Session recovery tools
+Best Practices
+Q: What should test takers do to prepare?
+Recommend:
+1. Complete system check early
+2. Test both cameras
+3. Verify ID well before test day
+4. Review technical requirements
+5. Practice with second camera setup
+6. Ensure stable internet connection
+7. Clear test space per requirements
+Q: When should test takers install the applications?
+Recommended timeline:
+1. ENTRUST mobile app:
+o Install immediately after registration
+o Complete ID verification at least 48 hours before test
+2. TOEFL Test app:
+o Install at least 24 hours before test
+o Run system check after installation
+o Practice with second camera setup
+Q: What are common issues to avoid?
+Alert test takers to avoid:
+• Last-minute ID verification
+• Unstable internet connections
+• Untested equipment
+• Crowded or noisy environments
+• Multiple monitors
+• Unauthorized materials
+• Background applications running
+
+
+
+
+
+2024-2025
+TOEFL iBT®
+Information
+Bulletin
+Policies in this Bulletin are in effect from July 2024 through June 2025 and are
+subject to change without notice. Note: Some products and services may be
+excluded or invalid from purchase when taking advantage of discounts or
+promotional offers. Consult the promotional terms and conditions when applicable.
+TOEFL iBT® Information Bulletin 1
+Contents
+Introduction ......................................................................3 Scores ...............................................................................11
+Scoring requirements .............................................................11
+Registration .......................................................................3
+Unofficial scores .......................................................................11
+General information .................................................................3
+Canceling your scores ...........................................................11
+Test takers in Mainland China ..............................................3
+Reinstating your scores .........................................................11
+Registration deadlines .............................................................3
+Score validity...............................................................................11
+Registration by phone ..............................................................3
+Score reports ..............................................................................11
+Test retake policy ......................................................................3
+Score report posting and mailing ......................................11
+Fees and payments ...................................................................3
+Additional score reports .......................................................11
+Acceptable forms of payment .................................3
+Score reviews .............................................................................11
+Payment policies ............................................................4
+Score verification ....................................................................12
+Rescheduling and canceling (by the test taker) ............4
+Online Score Verification Service ....................................12
+Test fee refunds ..........................................................................4
+Terms and conditions .................................................12
+Refund policy for Korea ...............................................4
+Score cancellation policies .................................................13
+Rescheduling and canceling (by ETS) ...............................5
+Testing irregularities ....................................................13
+Accommodations .............................................................5 Holding/canceling scores .........................................13
+Identification discrepancies ....................................14
+Test Preparation ...............................................................5
+Misconduct .....................................................................14
+Identification .....................................................................6 Plagiarism ........................................................................14
+Invalid scores ..................................................................14
+ID document requirements ..................................................6
+Liability ..............................................................................14
+Primary ID documents ...........................................................6
+Supplemental ID documents ..............................................6 Confidentiality of Information ....................................15
+Unacceptable ID documents ...............................................7 Privacy .........................................................................................15
+Exceptions and special cases ...............................................7 At the test administration ...................................................15
+Multiple-part names ......................................................7 Consent ......................................................................................15
+Single name (no first/given name or Purpose and use of personal information,
+no last/family name) ......................................................7 photograph and video ..........................................................15
+Driver’s license renewals .............................................7 Disclosure ...................................................................................15
+U.S. military .......................................................................7 Security and retention ..........................................................16
+Test takers 15 years of age and younger ..............7 Individual rights .......................................................................16
+Unable to meet ID requirements ........................................7 Score information ...................................................................16
+Questions about ID documents .........................................8
+On Test Day ........................................................................8
+Arrival and check-in at a test center..................................8
+ID verification ...............................................................................8
+Test Security .....................................................................8
+Policies and violations ..............................................................8
+Personal items ............................................................................9
+Scratch paper ............................................................................10
+Breaks ...........................................................................................10
+TOEFL iBT Home Edition: Additional policies ...............10
+Reporting suspicious behavior .........................................10
+TOEFL iBT® Information Bulletin 2
+Introduction Registration by phone
+To register by phone, find the contact information for the
+You’ve made a great choice to take the TOEFL iBT® test!
+country where you are testing at ets.org/toefl/contact.
+As with any ETS test, there are some important rules that
+Use the contact information for Testing Inquiries.
+must be followed to ensure the test is administered fairly
+and securely.
+You can pay using a credit/debit card, or an electronic
+check (e-check) in U.S. dollars.
+The contents, terms and conditions of this Bulletin form
+a legally binding contract between you and ETS, and by
+Regular phone registration closes 7 full days before the
+registering for and/or taking the test, you agree to be
+test date. After that, you will be charged an express fee.
+bound by these terms and conditions. They are effective
+Express phone registration closes at 5pm, local test
+for the 2024–25 testing year and are subject to change
+center time, on the day before your test appointment.
+without notice.
+Test retake policy
+If you are testing in India, refer to the TOEFL iBT
+Information Bulletin for Testing in India at There is no limit to the number of times you can take the
+www.etsindia.org. test, but you cannot take it more than once in a 3-day
+period. This applies even if you canceled your scores from
+Registration a previous test. If you already have a test appointment,
+you cannot register for another date that is within 3 days
+General information of your existing appointment.
+You can register for a TOEFL iBT test by creating an ETS
+Fees and payments
+account at www.ets.org/toefl.
+The TOEFL iBT test fee varies by location. To find out
+Be sure that the name you use exactly matches the the fee where you plan to take the test, go to the TOEFL
+name printed on the identification (ID) document you will website and select your country or location. Fees for
+present on the day of the test. ID requirements depend additional services, such as rescheduling, additional score
+on where you plan to take the test and your citizenship. reports, score reviews and returned payments, are also
+See the “Identification” section on page 6 for details. listed on the website. Note: Some products and services
+may be excluded or invalid from purchase when taking
+Your ETS account is not transferable. Test registrations
+advantage of discounts or promotional offers. Consult the
+are also not transferable.
+promotional terms and conditions when applicable.
+Test takers in Mainland China Test and test-related fees are inclusive of any sales, use,
+value-added or similar taxes. In jurisdictions where the
+To register for the TOEFL iBT test in a test center, and for
+customer is required to account for any local taxes due,
+more information, policies and procedures specific to
+the price remitted to ETS excludes those taxes. In those
+Mainland China, visit https://toefl.neea.cn.
+circumstances, it is the sole responsibility of the customer
+To register for the TOEFL iBT Home Edition and for more to pay those taxes to the local tax authority. ETS is not
+information, policies and procedures specific to Mainland responsible or liable for collecting and remitting those
+China, visit https://toefl.cn/at-home. taxes on the customer’s behalf.
+In Australia, Canada, Colombia, Chile, Nigeria, Norway,
+Registration deadlines
+Saudi Arabia, Turkey, United States, Vietnam and
+Regular online registration closes 7 full days before the Singapore, test and test-related fees are exclusive of any
+test date. After that, you will be charged an express fee. sales, use, value-added or similar taxes and will be added
+to the order when it is placed.
+Express online registration closes 2 days before the test
+date. For example, if the test date you want is a Saturday, Acceptable forms of payment
+the last day you can register is Thursday.
+• Credit/debit card — American Express®, Discover®,
+JCB®, China UnionPay®, Diners Club®, MasterCard®,
+RuPay® and VISA®. Any card branded with one of
+TOEFL iBT® Information Bulletin 3
+these card logos can be used. Note: Only VISA cards Rescheduling and canceling
+are accepted in Benin, Côte d’Ivoire, Ghana, Kenya,
+(by the test taker)
+Nigeria and Togo.
+If you need to reschedule or cancel your test
+• Electronic check (e-check) — drawn on a bank in
+appointment, you must do so at least 4 full days before
+the United States, U.S. Virgin Islands, Puerto Rico or
+your test date. For example, if your test appointment is on
+Canada, in U.S. dollars only.
+Saturday, you must reschedule or cancel by Tuesday. If
+• PayPal® we don’t receive your request at least 4 days in advance,
+• Alipay® your test fee won’t be refunded.
+The easiest way to cancel or reschedule your test is
+Payment policies
+through your ETS Account: www.ets.org/mytoefl. To
+• Some policies and procedures for tests in Mainland reschedule by phone, go to www.ets.org/toefl/contact to
+China (not Hong Kong, Macau or Taiwan) may differ see contact information for your area. Test appointments
+from those in this Bulletin. can’t be rescheduled or canceled by regular mail or email,
+• If your payment is declined by your bank or your card or at the test center.
+provider, you will be charged a fee.
+Test fee refunds
+• Services may be withheld for non-payment of fees.
+If you don’t submit the correct fee, your registration If you cancel your test appointment by the 4-day
+form or order will be returned to you. Your scores deadline, you’ll automatically receive a refund of 50% of
+won’t be released if a payment can’t be processed for the original test fee you paid. For tests taken in Korea, see
+any reason. the refund policy for Korea below.
+• ETS reserves the right to add, modify, or remove a
+Refunds are issued in the currency that was used to pay
+payment method at its own discretion and without
+for the test. Cash refunds are not available.
+notice. All payments must be for the full amount due.
+• All outstanding balances with ETS must be paid in full Refunds are processed automatically when you cancel
+before you can register for any ETS test or order any your test appointment and are credited back to the
+service. original method of payment.
+• ETS processes payments with your security in
+No refund will be given if you didn’t follow the proper
+mind. This may impact your online experience. Visa
+registration procedures or didn’t present the required
+Secure®/ Verified by Visa, MasterCard® SecureCode™,
+identification at the test center.
+American Express SafeKey® and Discover®
+ProtectBuy™ are 3D Secure (3DS) online fraud
+Refund policy for Korea
+prevention measures used by card companies as an
+If you are taking the test in Korea, you have 7 days after
+added layer of security to protect cardholder account
+you register to receive a full refund:
+information. During the payment process you may be
+asked by your card issuing bank to verify cardholder
+identity by entering an authentication code known Cancellation Date Refund Amount
+only to the cardholder and the bank. Failure to
+enter the required information or entry of invalid 0–7 days after you register 100% test fee
+information will result in the sale being rejected. If you
+8 days after you register — 4
+don’t know your 3D-Secure passcode or password, days before your test date 50% test fee
+and you are not being given the option to enroll online
+3 or fewer days before your
+in the bank’s pop-up screen, then you will need to test date, or on or after your No Refund
+contact your bank. test date
+TOEFL iBT® Information Bulletin 4
+If you cancel your registration within the time frame for costs to get to the test center, you may be eligible for
+a 100% refund, the test fee amount you paid may be reimbursement of reasonable and documented travel
+credited in 2 separate transactions to your credit/debit expenses, for yourself only, within 30 days of your test
+card. Each transaction will be for the 50% of the fee. date.
+If you registered for the test after the normal registration When you contact TOEFL Services, have the appropriate
+deadline and paid the late registration fee, that fee will receipts available and be prepared to provide all of the
+also be refunded. following information:
+No refund will be given if you didn’t follow the proper • Name
+registration procedures or didn’t present the required
+• Date of birth
+identification at the test center.
+• Mailing address
+Rescheduling and canceling (by ETS) • Daytime phone number
+• Email address
+If it becomes necessary for ETS or the TOEFL® Program
+to cancel a test administration for reasons beyond its • Original test date
+control, including, without limitation, severe weather • Test appointment number
+conditions, natural disasters such as a flood or a fire,
+• A description of the problem
+terrorist acts, acts of vandalism, hazardous conditions at
+the test center, or some other event, you will be contacted Accommodations
+by email and/or phone. Be sure to keep the contact
+information in your ETS account up to date so you can be Testing accommodations are available for test takers
+contacted quickly if needed. with disabilities or health-related needs who meet ETS
+requirements. If you are requesting accommodations, you
+Fees that you paid will be transferred to a new test must have them approved before you can register for the
+appointment or upon request a full refund will be issued. test.
+Unless ETS or the TOEFL Program cancels a test If seeking accommodations, submit your request as early
+administration at a given test center, it will be conducted as possible. Documentation review takes approximately
+as scheduled, barring circumstances preventing prior four to six weeks once your request and complete
+notification of cancellation, such as a natural disaster or a paperwork have been received at ETS.
+terrorist act. If you miss a test administration that has not
+been officially canceled, you’ll be considered absent and The 2024-25 TOEFL iBT Bulletin Supplement for
+won’t receive a refund or credit of any kind. Test Takers with Disabilities or Health-Related Needs
+contains contact information, a list of some of the
+• If your appointment is rescheduled by ETS before you accommodations ETS most frequently approves and
+take the test, you can select a different test date and provides, and procedures for requesting them. The
+won’t be charged the rescheduling fee. Supplement can be downloaded at www.ets.org/toefl/
+• If you travel to the test center and find out that the test-takers/ibt/register/disability-accommodations.
+testing session has been canceled by ETS, you can
+reschedule your test at no charge or receive a full Test Preparation
+refund. Refunds are issued in the currency used to
+View the full array of official TOEFL iBT prep products,
+pay for the test and include taxes as applicable.
+created by the test makers at ETS, at www.ets.org/toefl/
+• If you take the test and your scores are canceled by
+test-takers/ibt/prepare.
+ETS, ETS will determine, at its sole discretion, whether
+or not you are eligible to re-test at no charge or to Please note that once orders are placed for prep
+receive a refund. products, they cannot be canceled, and there are no
+refunds or returns.
+• If ETS cancels a test administration or cancels scores
+after you take the test, and you have incurred travel
+TOEFL iBT® Information Bulletin 5
+Identification • include a recent photograph that clearly matches
+your appearance
+You are responsible for having valid and acceptable ID
+• show your signature; the name on your ID and the
+each time you test. It’s your responsibility to bring the
+signature name must match
+correct documents and to make sure they’re up to date
+on test day. Otherwise, you won’t be able to take the test
+Primary ID documents
+and your test fee won’t be refunded.
+The following government-issued ID documents are
+Please note:
+acceptable for admission to a test center or to the at-
+home test within the country or location where you are a
+• If the test administrator or proctor questions your ID,
+citizen or permanent resident:
+you may be required to also provide supplemental ID.
+• If your ID document is not written in English-language • Passport
+letters and the test center administrator can’t read it,
+• Passport Card – U.S. only, and must be accompanied
+you won’t be able to take the test.
+by a supplemental ID
+• Admission to the test center, or acceptance by a
+• Driver’s license
+proctor for the at-home test, does not guarantee that
+• State or Province ID card – including those issued by
+the ID you provided is valid or that your scores will be
+motor vehicle agencies
+reported. All cases of questionable ID are subject to
+review and approval by ETS. • National ID card
+• At a test center, you may be required to show your ID • Military ID card
+and/or to sign a log at various points throughout the If your primary ID doesn’t include your signature, you
+test session, including before and after breaks. can also present a supplemental ID that shows your
+photograph and signature, or a government-issued ID
+ID document requirements with your photograph, as long as they’re in the same
+name you used when you registered.
+Your ID requirements depend on where you plan to
+take the test and your country of citizenship. Check the
+Supplemental ID documents
+requirements for your testing location at www.ets.org/
+toefl/test-takers/ibt/register/id. You may be required to provide supplemental ID if the
+test center administrator or proctor for the at-home
+With few exceptions, ID documents must meet all of the
+test questions your primary ID document and/or if
+following requirements. Each ID document must:
+your primary ID is otherwise valid and acceptable but
+is missing your full name, photograph, or signature. If
+• be an original document; photocopied documents are
+you can’t provide a supplemental ID that shows your
+not acceptable, and documents cannot be presented
+signature, you can present 2 government-issued IDs with
+on a mobile phone or any other device
+photographs, as long as they’re in the same name you
+• be a physical ID; electronic ID issued to a mobile
+used when you registered.
+phone or any other electronic device is not
+acceptable Supplemental ID documents cannot be used to resolve
+• be a government-issued national/state/province last/family name discrepancies. The last/family name on
+identity card that is recognized by the country or your primary ID must match the name you used when
+location where you are a citizen or a permanent you registered.
+resident
+The following documents are generally acceptable as
+• be valid; expired documents are not acceptable
+supplemental ID:
+• show your full name and date of birth; the first/given
+• Government-issued ID card – including, but not
+name and the last/family name on your ID must
+limited to, those listed under “Primary ID Documents”
+exactly match the name and date of birth you used
+earlier in this section
+when you registered for the test
+TOEFL iBT® Information Bulletin 6
+• Student ID card (excluding accents and apostrophes).
+• Confirmation of identity letter from your
+Single name (no first/given name or no last/
+educational institution. This letter must be typed or
+family name)
+printed on the original letterhead of the educational
+institution you attend(ed) and, in addition to meeting If you only have a first/given name and no last/family
+all of the ID document requirements that are listed name, or you only have a last/family name and no first/
+earlier in this section, must include your date of birth given name, enter your name in the “Last/Family Name(s)”
+and the date issued. Additionally, a school official’s field and check the box near the field. As long as the name
+signature and the school seal must be present and in your account is exactly the same as the name on your
+both must overlap your photograph. Such letters are ID document, you’ll be able to take the test.
+valid for 1 year from the date issued.
+Driver’s license renewals
+If your driver’s license has expired, but you present it
+along with your original Department of Public Safety
+renewal certificate, these 2 documents together are
+acceptable as long as the names on both documents
+match exactly. If a provisional driver’s license is issued
+in lieu of a renewal certificate, this will be accepted as a
+primary document if it includes your photo, signature and
+an expiration date.
+Unacceptable ID documents
+The following documents are not acceptable as primary U.S. military
+or supplemental ID under any circumstances:
+If your military ID doesn’t include your signature, you must
+present a supplemental ID.
+• International driver’s license
+• Mobile driver’s license If you are in the U.S. military and the expiration of your
+driver’s license has been extended or deferred by the
+• Draft classification card
+issuing state, the license can be used as a supplemental
+• International student ID
+ID along with your U.S. military ID. Depending on the state,
+• Credit/debit card of any kind the extension or deferral may consist of either a sticker
+• Notary-prepared letter or document affixed to the license with the designation “military”
+printed in place of an expiration date, or a separate
+• Birth certificate
+document carried with the license, usually with a notation
+• Social Security card
+that the driver’s license is valid until a specific time period
+• Employee ID card after discharge from service.
+• Any temporary ID – excluding driver’s license, Resident
+Card and Employment Authorization Card renewals Test takers 15 years of age and younger
+• Diplomatic, consulate, or embassy ID card If you are age 15 or younger and are accompanied by a
+parent or other authorized adult age 18 or older, both you
+• Aadhaar Card
+and the authorized adult must present valid, acceptable
+ID. If you don’t think you can meet the ID requirements,
+Exceptions and special cases
+contact the Office of Testing Integrity before you register
+Multiple-part names for the test.
+If the ID document you have contains a multiple-part
+Unable to meet ID requirements
+last/family name or a multiple-part first/given name (for
+example, Smith-Davis or Miller Thomas), the name and If you have been granted political asylum, have refugee
+date of birth shown on your ID must exactly match the status, or are otherwise unable to meet the identification
+name and date of birth you used to register for the test requirements, you must contact the ETS Office of Testing
+TOEFL iBT® Information Bulletin 7
+Integrity (OTI) at least 7 days before you register for the ID verification
+test. You will need to receive approval from OTI before you
+In addition to your required ID, verification at the test
+can register. You should also be prepared to submit any
+center may include:
+requested documents to OTI for review prior to receiving
+approval. If you don’t contact OTI before you register, and • Photographing/video surveillance
+as a result you are not permitted to take the test or your
+• Fingerprinting/thumbprinting
+test scores are withheld and/or canceled, your test fee
+• Signature comparison
+won’t be refunded.
+• Biometric voice and photo identification
+Office of Testing Integrity
+• Other forms of electronic confirmation
+Email: TSReturns@ets.org
+Test Security
+Phone: 1-800-750-6991 (toll free in the U.S., U.S.
+Test security is extremely important because it helps
+Virgin Islands, Puerto Rico, Canada)
+ensure that scores are valid and fair for everyone.
++1-609-406-5430 (all other locations) Thereby, ETS has established policies and procedures
+that test centers, proctors and test takers must follow.
+Monday–Friday, 7:30am–5:30pm U.S.
+Eastern time, except U.S. holidays
+Policies and violations
+If you do not follow the instructions of the test
+Questions about ID documents
+administrator or proctor, you won't be permitted to test,
+For general questions about acceptable ID, call TOEFL and your test fee won't be refunded. Any violation of
+Services at: 1-877-863-3546 (toll free in the U.S., U.S. security procedures during the test or during a break
+Virgin Islands, Puerto Rico, Canada) or +1-609-771-7100 may result in dismissal from the test, cancellation of your
+(all other locations). test scores and/or notifying the appropriate authorities.
+Reports of cheating or fraud will be investigated
+On Test Day thoroughly, and offenders may be prosecuted to the full
+extent of applicable law.
+Arrival and check-in at a test center
+Violations include, but are not limited to, the following:
+For tests at a test center, you must arrive at least 30
+minutes before your assigned start time to allow for the • Taking or attempting to take the test or part of the
+check-in process. If you arrive or check in after your test for someone else, or having or attempting to have
+assigned start time, you won’t be able to take the test, and someone else take the test or part of the test for you.
+your test fee won’t be refunded.
+• Failing to provide acceptable identification, including
+refusing to allow your photograph to be taken.
+If you are age 15 or younger when you take the test,
+we suggest you be accompanied by a parent or other • Obtaining improper access to test content or other
+authorized adult age 18 or older, who will be required to information about the test. This includes having
+complete and sign a release form at the test center. test questions or answers in advance of the test
+administration and bringing pre-knowledge of any
+Friends, relatives and other visitors are not allowed to wait test information into the test center in any form,
+in the test center or be in contact with you while you are including but not limited to ID documents, prohibited
+taking the test or during breaks, unless you are age 15 or devices and any other item used as an aid in
+younger. connection with the test.
+Be prepared to undergo security measures, which may • Using or having any prohibited item or device in your
+include the use of electronic scanning devices such as possession in the test center or testing room — see
+hand-held metal detector wands, and visual inspection the “Personal Items” section on page 9.
+for unauthorized testing aids or wearable technology.
+TOEFL iBT® Information Bulletin 8
+• Using any object as an aid in connection with the • Failing to follow any of the test administration
+test including, without limitation, phones, tablets, regulations contained in this Bulletin, on the TOEFL
+watches, pens, scan pens or other scanning website, given by the test center administrator, or
+devices, calculators, books, pamphlets, notes, specified in any test materials.
+unauthorized scratch paper, rulers, highlighter pens,
+Personal items
+dictionaries, test preparation materials, translators
+and any electronic, scanning, listening, recording, • Personal items other than ID documents are
+photographic or wearable device. not allowed in the testing room, except for
+• Writing test-related information on clothing, footwear, food, beverages and medication. This includes
+ID documents, or on any parts of the body. phones, tablets, watches, headphones and any
+other electronic, recording, listening, scanning
+• Attempting to give or receive assistance —
+or photographic devices. If you are seen using
+communication in any form is not permitted
+or accessing a device and/or transmitting data,
+during the test session. Discussion or sharing of
+including but not limited to text messaging, email and
+test questions or answers is prohibited during
+photographs, your device may be inspected and/
+the test session, during breaks, and after the test
+or confiscated. If you bring a phone with you to the
+is completed, including communication via text
+test center, it must be turned off. You cannot access
+messages, email or photographs.
+your phone or other devices during the test session
+• Using the scratch paper provided or notes of any kind to check messages, make a call, check the time or for
+to prepare your Writing responses ahead of time. any other reason.
+• Attempting to remove scratch paper or a piece of • To ensure unauthorized items are not brought
+scratch paper from the testing room, or using scratch into the testing room, visual inspection of clothing,
+paper before the test or between test sections. footwear and ID may also be conducted. You may be
+• Removing or attempting to remove test content from required to remove your eyeglasses for close visual
+the test center — under no circumstances may test inspection. The inspection takes a few seconds and
+content or any part of the test content be removed, will be done at check-in and when you return from
+reproduced, transmitted and/or disclosed by any breaks. Unless an inspection is required, removal of
+means (for example, hard copy, verbally, electronically) footwear in the testing room is prohibited. You may
+to any person or entity. be asked to empty your pockets, raise your pant legs
+above your ankles and/or pull your sleeves above
+• Tampering with a computer.
+your wrists for visual inspection. Such inspections are
+• Smoking in the test center (including e-cigarettes) or
+routine before each entry into the testing room. You
+bringing food and beverages into the testing room,
+can request that the inspections be performed by a
+except when approved as a testing accommodation.
+staff member of the same gender as you and/or in an
+• Bringing a weapon or firearm into the test center. area sheltered from the view of other people — test
+• Leaving the test center vicinity without permission center staff will make every effort to accommodate
+during the test or during breaks. such requests, but ETS cannot guarantee that all
+test centers will have the necessary staff and space
+• Taking excessive or extended unscheduled breaks
+available.
+during the test – test center administrators are
+required to strictly monitor unscheduled breaks and • All face masks, jewelry (such as large necklaces, tie
+report test takers who take excessive or extended clips and cuff links), ornate clips, combs, barrettes,
+breaks. headbands and other hair accessories must be
+removed prior to entering the exam. Wedding and
+• Creating a disturbance. The test administrator has
+engagement rings may remain on.
+sole discretion in determining what constitutes
+disruptive behavior. • Clothing and other personal items, including but not
+limited to any hair accessories, neckties, bow-ties,
+• Responding in a threatening or disturbing way to a
+hats, scarves, jackets and outerwear, are subject to
+Writing or Speaking question, or communicating with
+inspection.
+ETS or other individuals either verbally or in writing in
+a threatening or disturbing manner.
+TOEFL iBT® Information Bulletin 9
+• At the test center, you will receive instructions from { one blank piece of paper inside a transparent sheet
+test center staff regarding where to store personal protector with an erasable marker; the paper must
+items. You cannot have access to your personal not be removed from the sheet protector at any
+items during the test sessions, except for food, non- time during the test
+alcoholic beverages and medication, which you can Before your test, you must disable any screen-sharing
+access during a break. Any personal item you bring or remote-access software (such as Zoom®, Skype,
+into the testing room may be confiscated by test TeamViewer®, Microsoft Teams® and Apple Remote
+center staff. Desktop™). It must remain disabled throughout the test.
+• Test center administrators are not permitted to Make sure that the software will not open automatically
+collect or hold your phones, watches, or any other during the test.
+devices.
+You must be alone in a room with no one else entering
+• Test centers and ETS assume no responsibility for
+during the test and all doors must be closed before
+personal items, including watches, jewelry, or devices
+testing begins.
+that you choose to bring to the test center.
+Your entire session will be recorded and monitored by a
+Scratch paper human proctor, and your photo will be taken.
+• The test center administrator will provide you with
+You must remain in view of the proctor. You should avoid
+pencils and scratch paper. You may not bring your
+doing anything that may look suspicious, like talking
+own scratch paper to the test.
+out loud or looking away from the screen. Unscheduled
+• You can’t request more scratch paper until you have breaks are not allowed.
+used and returned all the pages you initially received.
+Reporting suspicious behavior
+• You may not write on anything other than the
+scratch paper provided (for example, the computer, ETS takes test security very seriously. Although TOEFL
+workstation, or your ID document). tests are administered under strict supervision and
+• Scratch paper is not to be used before the test, security measures, testing irregularities can still occur.
+between sections, or during breaks. Please contact ETS as soon as possible after the test
+to report any irregular behavior that is either observed
+• At the end of the test session, you’ll be required to
+or reported to you — for example, if you see someone
+return all scratch paper, in its entirety, to the test
+copying from another test taker, taking a test or part of
+center administrator.
+a test for someone else, having access to test questions
+or answers before the test session, or using notes or
+Breaks
+unauthorized aids. Any information you report will be held
+There are no scheduled breaks in the TOEFL iBT test. in the strictest confidence. Reports of cheating or fraud
+will be investigated thoroughly, and offenders may be
+TOEFL iBT Home Edition: Additional prosecuted to the full extent of the law.
+policies
+Email: reportcheating@toefl.org
+You will have up to 15 minutes after your scheduled time
+to begin your check in. If you haven’t checked in by that Phone: 1 -800-353-8570 – toll free for test takers in
+time, your test will be canceled and your fee won’t be the U.S., U.S. Virgin Islands, Puerto Rico and
+refunded. Canada
+Have the materials you’ll need for your test session, +1-609-406-5430 – all other locations
+including:
+• a cellphone or hand-held mirror for check in
+• note taking materials, which can be:
+{ one small desktop whiteboard with an erasable
+marker OR
+TOEFL iBT® Information Bulletin 10
+Scores Score reports
+Your TOEFL iBT test fee entitles you to:
+Scoring requirements
+• your scores posted to your ETS account. If you need
+To receive scores for the test, you must answer at least
+a paper copy of your scores, select that option when
+one question each in the Reading and Listening sections,
+you register or at any time until 10pm, local test center
+and respond to at least one Speaking task and one
+time, on the day before you take the test.
+Writing task.
+• your MyBest® scores, which combine your best
+Unofficial scores scores for each section from all your valid TOEFL iBT
+scores from the last 2 years, allowing you to show
+At the end of the test, you will be able to view your
+your best performance in each skill area.
+unofficial scores for the Listening and Reading sections to
+• access to a PDF of your test taker score report that
+give you an idea of how you did on the test. You will also
+you can download and print.
+see the date you can expect your official scores.
+• up to 4 score reports that ETS will send to the
+It is possible that your unofficial scores will differ from
+institutions or agencies you designated before you
+the official scores that are posted to your account, due to
+took the test. You can add, delete or change score
+the statistical analysis performed after the test to ensure
+recipients until 10pm, local test center time, on the
+accuracy.
+day before your test. After that time, you will be
+charged a fee for each score report sent.
+Canceling your scores
+Score report posting and mailing
+At the end of the test, you have the option to either have
+your scores reported or cancel them. If you choose to Your TOEFL iBT scores are posted to your ETS account
+cancel your scores, you must cancel all sections. approximately 4–8 days after you take the test. You will
+receive an email letting you know that your scores are
+If you choose to have your scores reported, they become posted.
+part of your record and will be reported to you and any
+score recipients you designated. Once you choose to Score delivery time to your designated recipients varies
+report your scores, they cannot be canceled. based on how they receive scores (all times approximate):
+If you choose to cancel your scores, they won’t be • ETS® Data Manager: 4–8 business days
+reported to you or to any score recipients, and you won’t • Server feeds: 8–10 business days
+receive a refund.
+• Postal mail: 10–12 business days plus mailing time.
+Allow an additional 7–10 days for mail delivery in the
+Reinstating your scores
+United States, and 4–6 weeks for mail delivery to
+If you cancel your scores at the end of the test but other locations.
+then change your mind, your canceled scores can be
+Additional score reports
+reinstated via your ETS account within 60 days after
+your test date, for a fee. Your scores will be reinstated You can send additional score reports to institutions for
+and reported to you and any designated institutions a fee. Score reports can be ordered online in your ETS
+approximately 3 weeks after receipt of your request and account. Designated institutions can’t be changed or
+payment. deleted after you place your order. No refunds can be
+made.
+Score validity
+Score reviews
+TOEFL scores remain valid for 2 years after the test date.
+Because language proficiency can change considerably You can request a review of your Speaking and/or Writing
+in a short period of time, TOEFL scores more than 2 years section via your ETS account, up to 30 days after your
+old can’t be reported or verified. test date, for a fee. You can’t request a score review if you
+have already requested that your scores be sent to any
+institution or agency.
+TOEFL iBT® Information Bulletin 11
+Your Speaking and Writing responses will be reviewed Terms and conditions
+by scoring specialists. If your original score is confirmed,
+1. Your initiation of the Verify TOEFL Scores function
+you’ll be notified by email within 3 weeks. If the review
+in the ETS Data Manager. If you provide your TOEFL
+results in a change in your scores, whether higher or
+Program appointment number and date of birth to
+lower, you will receive your new scores. The revised scores
+an Organization, that Organization will be able to
+will become your official scores for that test date.
+view and verify your scores and related data. Do not
+provide that information unless you want to allow the
+Score verification
+Organization to access your score data using the ETS
+Institutions have the ability to verify scores sent directly Data Manager.
+to them by test takers. If there is a discrepancy between
+2. Score data; organization access. Using the Service,
+the official scores recorded at ETS and scores you submit,
+a member Organization will be able to view, copy
+the institution or agency will be asked to provide ETS with
+and use your name, gender, photograph, date of
+a copy of what you submitted.
+birth, appointment number, ID information including
+At the request of the institution or agency, ETS will report passport number or national ID number, test date
+the official scores as well as any previous scores recorded and test scores (including your total score, your
+for you within the last 2 years. ETS or its authorized scores for the Reading, Listening, Speaking and
+representative will also provide your score information at Writing sections, and your MyBest scores), read
+the request of any institution or agency that has a copy of your writing samples, and listen to your speaking
+your score posting or your test taker score report. samples captured during the test administration
+(collectively, the “Score Data”). ETS reserves the
+Online Score Verification Service right to determine whether more or less data
+should be provided from time to time in its good-
+The following terms and conditions supplement all
+faith discretion. Any use of your score data by the
+other terms and conditions, disclosures, policies and
+Organization should be pursuant to its privacy and
+agreements relating to TOEFL test scores reported by
+security policy, if any, rather than to the ETS policy.
+ETS, including but not limited to the ETS privacy and
+ETS contracts with these Organizations to use the
+security policy and the TOEFL iBT Information Bulletin,
+information only to verify the TOEFL scores, but ETS
+all as amended from time to time (collectively, “TOEFL
+does not control the Organizations.
+Program Documents”).
+3. Limitations. You acknowledge that if you give an
+You can view the current version of the ETS privacy and
+Organization your appointment number for a TOEFL
+security policy at www.ets.org/legal/privacy.
+test that is more than 2 years old, the Organization
+will not be able to verify your scores. You agree that
+The ETS Data Manager allows entities that contract with
+ETS supplies the ETS Data Manager and the Score
+ETS for access, including governmental immigration
+Data AS IS and with all faults. All disclaimers, damage
+offices (“Organizations”), to verify the scores of tests
+and remedy exclusions, and limitations and other
+provided by ETS under the TOEFL trademark. Score
+provisions of the TOEFL Program Documents, apply
+data provided through the ETS Data Manager provides
+to the ETS Data Manager and the Score Data.
+identifying information about the test taker. Some test
+takers provide their TOEFL score information directly to
+4. Other. Except as impacted by the ETS Data Manager,
+Organizations; the Verify TOEFL Scores function allows
+the terms and conditions of the TOEFL Program
+these Organizations to view and verify the scores.
+Documents will remain in full force and effect. ETS
+reserves the right to share data with institutions and
+By registering for a TOEFL test, downloading a TOEFL
+agencies for verification purposes outside of the
+Information Bulletin, completing the confidentiality
+ETS Data Manager. You agree that ETS may amend
+agreement on test day after having an opportunity to
+or change these terms and conditions from time
+review it, or by providing your TOEFL test appointment
+to time in its discretion by providing notice in the
+number, your scores, or your test taker score report to an
+TOEFL section of the website at www.ets.org or in
+Organization, you agree to all the terms and conditions
+any of the TOEFL Program Documents, or by emailing
+herein without modification by you.
+TOEFL iBT® Information Bulletin 12
+or otherwise giving notice to you. If you provide Testing irregularities
+your TOEFL information to an Organization after
+“Testing irregularities” refers to problems with the
+the effective date of an amendment; or if, before
+administration of a test. Testing irregularities can result
+the effective date, you fail to withdraw your TOEFL
+from the actions of test takers, test center administrators,
+information from an Organization or otherwise fail to
+ETS, or natural or man-made causes. When testing
+instruct it not to access your score data, you will be
+irregularities occur, they may affect an individual or
+deemed to have consented to the amendment. The
+groups of test takers. Such problems include, without
+foregoing does not restrict ETS from using another
+limitation, administrative errors such as improper
+method for amendment under any of the TOEFL
+timing, improper seating, defective materials such as
+Program Documents.
+improper test forms, or defective equipment; improper
+access to test content; and other disruptions of test
+Score cancellation policies
+administrations such as natural disasters or other
+ETS and the TOEFL Program strive to report scores emergencies. When testing irregularities occur, ETS may
+that accurately reflect the performance of every test decline to score the test or cancel the test scores. When
+taker by giving test takers equivalent opportunities to it is appropriate to do so, test takers will be given the
+demonstrate their abilities and preventing any test takers opportunity to take the test again without charge as soon
+from gaining an unfair advantage over others. as reasonably possible.
+ETS reserves the right to cancel any test score when, in Holding/canceling scores
+its sole judgment, there is substantial evidence that the
+• If there is information that ETS considers sufficient
+score is invalid. Scores can be canceled as a result of test
+to indicate that you have engaged in any activity that
+taker behavior or irregularities that affect testing integrity.
+affects score validity, ETS may hold your scores for
+ETS can also take other actions as it deems appropriate,
+investigation. If your scores are held, you can’t send
+including banning the test taker from taking any future
+score reports to any institution or agency until the
+ETS test and referring the matter to law enforcement
+investigation is complete.
+authorities when, in ETS’s judgment, a testing irregularity
+occurs; there is an apparent discrepancy in a test • In addition, when information exists that ETS
+taker’s identification; the test taker may have engaged considers sufficient that the administration of a test
+in misconduct, including, without limitation, having did not comply with test administration regulations,
+someone else take the test for him/her, obtaining some or all scores from that administration at that
+improper access to test questions or answers via the test center may be held or canceled.
+internet, email, SMS, text messaging or posting; disclosing • ETS reserves the right to take any action — including,
+test questions or answers to third parties in chat rooms, but not limited to, dismissing you from the test center,
+message boards or forums, SMS text message, or any holding or canceling your scores, and banning you
+other method, plagiarism, or copying or communication; from future testing — for failure to comply with test
+or the score is invalid for another reason. administration regulations or the instructions of test
+center administrators or proctors. If you’re dismissed
+ETS reserves the right to share any and all information
+from the test center or your scores are canceled,
+in its possession about a test taker and the terms and
+those scores won’t be reported and your test fee
+conditions of test taking with any third party, including
+won’t be refunded. ETS may also provide information
+but not limited to (a) any entity which ETS recognizes
+about your score cancellation to law enforcement
+as an authorized user of test scores, including, without
+and the institutions you chose to receive your scores,
+limitation, any entity to which ETS reports test scores at
+including visa-granting agencies.
+the test taker’s request, and (b) any government agency
+• ETS will also exercise its right to cancel any test score
+with responsibility for administration or enforcement of
+when, in its sole judgment, substantial evidence of
+U.S. criminal and/or immigration laws. When ETS cancels
+pre-knowledge of test content is found.
+a test score that has already been reported, it notifies
+score recipients that the score has been canceled and • The test retake policy will be enforced even if
+may also explain why the score has been canceled. a violation is not immediately identified (e.g.,
+inconsistent registration information). If the violation
+TOEFL iBT® Information Bulletin 13
+is identified after registration but before the test or sources provided by any third party, is used without
+administration, the testing appointment will be attribution. Such responses don’t reflect the independent
+canceled and test fees will be forfeited. If the violation speaking or compositional writing skills that the test is
+is identified after test scores have been reported, the designed to measure.
+invalid scores will be canceled, score recipients will
+be notified of the cancellation and test fees will be Invalid scores
+forfeited.
+ETS may also cancel scores if, in its judgment, there is
+• ETS is monitoring reuse of devices and testing substantial evidence that they’re invalid for any other
+locations for unauthorized purposes. Frequent, reason. “Substantial evidence” means evidence that
+inappropriate reuse of shared testing devices and is sufficient to persuade a reasonable person. The
+common testing locations may result in score delay substantial evidence standard is lower (i.e., requires less
+and/or score cancellation and could impact your proof) than the “reasonable doubt,” “clear and convincing,”
+eligibility to take future ETS exams. or “preponderance of the evidence” standards. Evidence
+of invalid scores may include, without limitation,
+Identification discrepancies discrepant handwriting, discrepant photographs,
+unusual answer patterns, or inconsistent performance
+When, in the judgment of ETS or of the test center
+on different parts of the test.
+administrators or at-home proctors, there is a
+discrepancy in your ID information, you may be dismissed
+Score cancellation decisions are not subject to appeal
+from the test center. In addition, ETS may decline to score
+to ETS. For test takers within the United States, before
+your test or may hold or cancel your test scores if the
+canceling scores based on substantial evidence of
+documents or your photo or biometric samples from test
+invalidity, ETS notifies the test taker in writing about its
+day can’t be validated, or if ETS has evidence that you
+concerns, gives the test taker an opportunity to submit
+were not the person who appeared for the test or didn’t
+information that addresses those concerns, considers
+take the entire test yourself.
+any such information submitted and offers the test
+taker a choice of options. The options may include
+ETS will also cancel scores, ban the test taker from any
+voluntary score cancellation, a voucher for a future
+future testing, and notify any score recipients of the
+test, or arbitration in accordance with the ETS standard
+cancellation if fraudulent activity is detected after your
+Arbitration Agreement. The arbitration option is available
+scores have been reported. If your scores are canceled,
+only to test takers who test in the United States at the
+your test fee won’t be refunded.
+time of testing.
+Misconduct
+If at any time before, during or after a review of
+When ETS or a test center administrator finds that there questionable scores, ETS finds that misconduct has
+is misconduct in connection with a test, test takers may occurred under in connection with a test, ETS may treat
+be dismissed from the test center and/or ETS may decline the matter under its misconduct procedures; in that
+to score their tests or may withhold and ultimately cancel event, the options available under the “Rescheduling and
+their scores. If your scores are canceled, your test fee canceling (by ETS)” or the “Testing Irregularities” section,
+won’t be refunded. Misconduct includes, but is not limited as applicable, will not be available, even if those options
+to, non-compliance with the procedures and regulations were previously offered.
+in the “Test Security” section on page 8 of this Bulletin.
+Liability
+Plagiarism
+ETS shall have no liability to any test taker for damages
+ETS reserves the right to cancel your scores if, in its or claims of any kind whatsoever that a test taker may
+judgment, there is evidence that a writing or speaking assert against ETS for holding or canceling scores, for
+response includes text that is substantially similar to not reporting scores, for banning the test taker from
+that found in other TOEFL test responses, or quotations future testing, or for disclosure of test taker information
+or paraphrasing of language or ideas from published or pursuant to ETS’s rights as set forth in this document.
+unpublished sources, including sources from the internet
+TOEFL iBT® Information Bulletin 14
+Confidentiality of Information Purpose and use of personal information,
+photograph and video
+Privacy
+Your personal information can be used to:
+ETS and the TOEFL Program take the privacy of our
+test takers seriously and recognize your right to control • complete any registration, purchase or other
+the information about you that is stored by us. Our transaction you request
+policies are designed to safeguard that information from • improve our products and services, and identify,
+unauthorized disclosure. develop and offer new or expanded products and
+services
+Because of laws protecting confidentiality and privacy,
+• improve and personalize your experience on the
+only you can register yourself for a test or make inquiries
+website
+regarding your registration or your test scores. ETS takes
+reasonable precautions to protect the integrity of your • notify you about updates, products, services and/or
+personal information provided in connection with the special offers from ETS, its affiliates and selected third
+registration process, as well as any information generated parties
+internally that is specifically pertinent to you, and to keep • ask you to participate in brief surveys or provide other
+this information secure. information
+Your private information will not be made available to • generate aggregate statistical studies and conduct
+anyone but you; ETS (including the employees, agents, research ourselves or jointly with others related to our
+contractors, or professional advisors of ETS); the products and services and the use of our website
+educational institutions or agencies you indicate before
+Based upon your specific relationship(s) with us, we may
+you take the test; and any person or entity required or
+use your personal information in ways described in more
+authorized by law to receive this information.
+detail in one or more other agreements.
+At the test administration Additionally, you consent to the transfer of your personal
+information within and outside of your country of
+You must show the required ID to be admitted to test, and
+residence and outside of the location where you take
+your photograph will be taken. See the “Identification”
+the test.
+section on page 6.
+We disclose your personal information to certain third
+Consent
+parties with whom we have a direct or indirect business
+Notwithstanding anything to the contrary in any other or contract relationship, to provide products and services
+ETS or ETS affiliate’s (“ETS,” “we,” “us,” “our”) materials you have requested.
+or agreements with you, you consent to the terms and
+You will have the ability to opt out of receiving certain
+conditions herein by registering for or taking an ETS test,
+communications from us, including voicemail or email. If
+creating an account or our website, providing survey
+you don’t opt out immediately, but later decide that you
+information, requesting one of our services, or completing
+would prefer not to receive email communications from
+an order or submitting payment information.
+us, please contact the TOEFL Program through www.
+You agree that we have the right to obtain, store, use ets.org. Remember, however, that we may still send you
+and transmit your personal information, including your emails or call you in order to provide a product or service
+full name, home address, email address, phone number, that you request.
+passport number, biometric data such as fingerprints,
+audio recordings and video files, your answers to Disclosure
+background information questions, the test you’re taking,
+Your personal information may be disclosed to those
+test date, payment information and how you specifically
+third parties who provide services to ETS, provided
+use our website.
+that they have contractually agreed to use the personal
+information only as needed to provide the services.
+TOEFL iBT® Information Bulletin 15
+By electing to report your scores at the end of your test, ETS will not release your score information at the request
+you authorize ETS to report your scores to you and to any of institutions or agencies except:
+entity or person authorized or required by law to receive
+• for use in research studies, scoring and statistical
+this information.
+analyses approved by the TOEFL Program and that
+Unless you cancel your scores at the end of the test, your preserve your anonymity
+scores will be reported. Any information you provided as
+• when information is required under compulsion of
+part of registration may be used to report your scores or
+legal process, in which case your score record and the
+to contact you regarding test- or program-related issues.
+documents that are retained at ETS (including, but
+not limited to, photos and documents completed at
+Security and retention check-in on test day) may be released to third parties
+ETS, the TOEFL Program and their service providers such as government agencies, parties to a lawsuit,
+shall at all times protect your personal information etc., if requested pursuant to a subpoena or required
+with operational, administrative, technical and physical by applicable laws
+security safeguards.
+Note that whenever ETS has confirmed that you have
+ETS will retain your scores for 2 years from the test date. submitted a TOEFL score directly to any educational
+After 2 years, all test taker information and scores are institution or agency in satisfaction of one of their
+removed. If you took the TOEFL test more than 2 years requirements, ETS will respond to requests from that
+ago, you’ll need to take the test again to have scores recipient for score verification.
+provided to you, an institution or an agency.
+Your responses may be used for rater training and in the
+development of new test preparation materials. Test
+Individual rights
+taker information, such as your name and address, is
+At any time, you can: not included when scored responses are used for these
+purposes. Rater training is essential to ensure that tests
+• request access to and correction of your Personal
+are scored in a fair and consistent manner. The use of
+Information
+your responses will benefit future test takers by helping
+• make any inquiries, requests, or complaints about the to improve the training of raters, just as the scoring of
+use of your Personal Information your test will benefit from the use of prior test takers’
+• withdraw your consent to the processing of your responses. Test preparation materials demonstrate
+personal data; however, if you exercise this right, you how the test is administered and the skills necessary to
+may not be able to take any further tests and your succeed.
+scores may be canceled
+Requests, inquiries, or complaints should be directed to
+TOEFL Services at toefl@ets.org.
+Score information
+Your score information is intended only for you and your
+designated score recipients.
+TOEFL iBT® Information Bulletin 16
+ets.org/toefl
+Copyright © 2024 by ETS. TOEFL, TOEFL iBT and MYBEST are registered trademarks of ETS in the United States and other countries.
+The Eight-Point logo is a trademark of ETS. All other trademarks are property of their respective owners.
+
+
+
+
+
+11/16/24, 10:19 PM Understanding Your TOEFL iBT Scores
+®
+TOEFL iBT
+The premier test of academic English communication
+Understanding Your TOEFL iBT Scores
+What your scores mean
+You’ll receive four scaled section scores and a total score.
+Each section has a score range of 0–30.
+These are added together for a total score of 0–120.
+Each skill has four or  ve pro ciency levels, so where your score falls within that range tells you your
+pro ciency for that skill.
+Skill Level
+Advanced (24–30)
+High-Intermediate (18–23)
+Reading
+Low-Intermediate (4–17)
+Below Low-Intermediate (0–3)
+Advanced (22–30)
+High-Intermediate (17–21)
+Listening
+Low-Intermediate (9–16)
+Below Low-Intermediate (0–8)
+Advanced (25–30)
+High-Intermediate (20–24)
+Speaking Low-Intermediate (16–19)
+Basic (10–15)
+Below Basic (0–9)
+Writing Advanced (24–30)
+High-Intermediate (17–23)
+Low-Intermediate (13–16)
+https://www.ets.org/toefl/test-takers/ibt/scores/understand-scores.html 1/7
+11/16/24, 10:19 PM Understanding Your TOEFL iBT Scores
+Basic (7–12)
+Below Basic (0–6)
+For more information, see Performance Descriptors for the TOEFL iBT® Test (PDF).
+Enhanced score reporting
+After you take your TOEFL iBT test, you’ll receive more than just a score. TOEFL iBT enhanced score
+reporting provides you with personalized feedback and performance insights to help you focus
+future studying e orts and realize your academic dreams. You’ll receive:
+A. Your pro ciency level for each section of the test.
+B. Feedback on which Reading and Listening question types you’ve successfully demonstrated,
+and which are still developing.
+C. A closer look at your Speaking and Writing skills, with insights into your language use, grammar,
+mechanics and more.
+D. Sample high-scoring Speaking and Writing responses with explanations to help you practice and
+improve.
+https://www.ets.org/toefl/test-takers/ibt/scores/understand-scores.html 2/7
+11/16/24, 10:19 PM Understanding Your TOEFL iBT Scores
+Enhanced TOEFL iBT score reporting information is available for tests taken on October 28, 2023 and
+beyond1. You can access your personalized scoring feedback and insights in your ETS account.
+Score requirements
+There are no passing or failing scores set by the TOEFL Program or ETS. Each institution or agency
+sets its own score requirements. For more information about how your scores will be used or
+interpreted, contact the institution or agency directly.
+What you’ll see when you get your score report
+Score reports now feature a more modern, visually intuitive design. You can download a PDF copy of
+your score report from your ETS account.
+TOEFL iBT test taker score reports sent from November 13, 2023 look like this:
+https://www.ets.org/toefl/test-takers/ibt/scores/understand-scores.html 3/7
+11/16/24, 10:19 PM Understanding Your TOEFL iBT Scores
+TOEFL iBT test taker score reports sent before November 13, 2023 look like this:
+®
+MyBest scores
+https://www.ets.org/toefl/test-takers/ibt/scores/understand-scores.html 4/7
+11/16/24, 10:19 PM Understanding Your TOEFL iBT Scores
+MyBest® scores (or superscores) show your best overall performance by combining your highest
+section scores from all test dates within the last 2 years. This means you may be able to meet score
+requirements for your institution with fewer tests and reach your goals sooner.
+View Transcript
+What MyBest scores look like
+All TOEFL iBT score reports show both your traditional scores from your selected test date and
+your MyBest scores, like this:
+An increasing number of universities and other institutions accept MyBest scores. We recommend
+that you check with institutions directly to con rm their TOEFL score requirements.
+How the test is scored
+TOEFL tests are only scored by a centralized scoring network, never at the test center. The Reading
+and Listening sections are scored by computer. The Speaking and Writing sections are scored by a
+https://www.ets.org/toefl/test-takers/ibt/scores/understand-scores.html 5/7
+11/16/24, 10:19 PM Understanding Your TOEFL iBT Scores
+combination of AI scoring and multiple, highly trained human raters to:
+o er a complete and accurate picture of your ability
+minimize the rater bias that can occur with face-to-face interviews
+ensure consistency and the highest quality
+Who accepts Home Edition scores
+View the list of institutions that accept TOEFL iBT Home Edition scores.
+1 Not available for TOEFL iBT tests taken at a test center in Mainland China.
+Sign up for TOEFL updates
+Stay up to date with the latest TOEFL news, announcements and articles
+SIGN UP FOR UPDATES
+ABOUT ETS COMPANY
+About Assessment Products
+Careers ETS Solutions
+ETS Research Institute
+https://www.ets.org/toefl/test-takers/ibt/scores/understand-scores.html 6/7
+11/16/24, 10:19 PM Understanding Your TOEFL iBT Scores
+Diversity, Equity, Inclusion &
+Belonging
+Disability Services
+News
+CEO Corner
+PRODUCTS SUBSIDIARIES
+TOEFL PSI
+TOEIC Edusoft
+GRE Kira Talent
+Praxis Pipplet
+View All Vericant
+Wheebox
+What are you looking for?
+Copyright © 2024 by ETS. All trademarks are the property of their respective owners.
+Legal Privacy & Security ETS Trademarks Consumer Health Data Privacy Policy
+Title VI Compliance Statement
+https://www.ets.org/toefl/test-takers/ibt/scores/understand-scores.html 7/7
+
+
+
+
+
+2/18/25, 2:27 PM At Home Testing Requirements for the TOEFL iBT Test
+®
+TOEFL iBT
+The premier test of academic English communication
+Equipment and Environment Requirements for At Home
+Testing
+If you’re planning to take the TOEFL iBT Home Edition, review and confirm that you meet these
+requirements before registering for a smoother test day experience. If you don't meet these
+requirements on test day, you won't be able to test. In that event, you won’t receive a refund or a
+free reschedule.
+Confirm your computer meets equipment requirements
+Download the ETS Secure Browser by selecting one of the links below.
+Download the Mac® OS version
+Download the Windows® version
+Then run the file to complete the installation. While in the browser, click the Equipment Check
+button to confirm that your equipment is ready for test day.
+How to run the Equipment Check (with screenshots)
+https://www.ets.org/toefl/test-takers/ibt/register/at-home-requirements.html#accordion-417d2893cc-item-acdaa51b1c 1/9
+2/18/25, 2:27 PM At Home Testing Requirements for the TOEFL iBT Test
+View the screenshots below to learn what you can expect when running the ETS Secure
+Browser.
+Once you open the ETS Secure Browser, you’ll be brought to this welcome screen. From here,
+you can run the Equipment Check.
+Upon completion of the Equipment Check, you’ll see the status of your equipment. If any
+parts have failed, you’ll see a red triangle status indicator, as well as tips for how to resolve the
+https://www.ets.org/toefl/test-takers/ibt/register/at-home-requirements.html#accordion-417d2893cc-item-acdaa51b1c 2/9
+2/18/25, 2:27 PM At Home Testing Requirements for the TOEFL iBT Test
+problem.
+The equipment check includes a bandwidth check. Since bandwidth differs depending on
+time of day and network usage, run the equipment check at several different times to see
+which time works best. Additionally, you should run the check on the same day of the week
+and the same time of day as your test. That way, you're checking your bandwidth in an
+environment similar to what you would experience when you test. Watch the helpful Tech Tips
+video.
+When you have successfully passed the equipment check, you’ll arrive at the Congratulations
+page.
+If your check fails and you can't resolve the issues yourself, visit Equipment Check Support
+for troubleshooting tips.
+https://www.ets.org/toefl/test-takers/ibt/register/at-home-requirements.html#accordion-417d2893cc-item-acdaa51b1c 3/9
+2/18/25, 2:27 PM At Home Testing Requirements for the TOEFL iBT Test
+Equipment requirements
+Computer
+Desktop or laptop computer; tablets, mobile devices and hybrid devices, such as the
+Microsoft Surface, are not permitted.
+Only one monitor or screen; multiple monitors or dual screens are not permitted.
+Only one keyboard; multiple keyboards are not permitted.
+Approved operating system, which has to be licensed. Unlicensed or test-mode versions
+are not permitted.
+PC: Windows operating system, version 10 or higher
+MAC: Mac OS X® 10.13 or higher
+Chrome™ or Firefox® browser.
+Speaker
+Use an internal or external speaker to take your test and hear the proctor.
+Headsets or earphones aren't allowed.
+Microphone
+https://www.ets.org/toefl/test-takers/ibt/register/at-home-requirements.html#accordion-417d2893cc-item-acdaa51b1c 4/9
+2/18/25, 2:27 PM At Home Testing Requirements for the TOEFL iBT Test
+Use an internal or external microphone that isn't part of a headset to take your test and
+communicate with the proctor.
+Headsets or earphones aren’t allowed.
+Camera
+A separate webcam, or a camera that is built into the computer or monitor screen, is
+allowed.
+You’ll need to be able to move the camera to show the proctor a 360-degree view of the
+room, including your tabletop surface and the area below it, before the test.
+Preventing issues
+Other devices taking up bandwidth can cause issues during your test. Be aware of other
+devices that are using significant internet bandwidth when you conduct your equipment
+check and on test day.
+Close all browsers and applications that you don’t need for the test. This can help
+prevent bandwidth issues while you test.
+Disable any screen-sharing or remote-access software prior to the test. You’ll need to
+keep this software disabled throughout the test and set it so that the software won’t
+open automatically during the test.
+https://www.ets.org/toefl/test-takers/ibt/register/at-home-requirements.html#accordion-417d2893cc-item-acdaa51b1c 5/9
+2/18/25, 2:27 PM At Home Testing Requirements for the TOEFL iBT Test
+Environment and testing space requirements
+Privacy
+You’ll need to be alone in a room with no one else entering during the test.
+You can't take the test in a public space such as a park, internet cafe or restaurant.
+You’ll need to close all doors in the room before beginning the test.
+All transparent walls, doors or large open windows must be covered.
+Walls must be clear of any material related to the test.
+Tabletop and seating
+Your computer and keyboard need to be on a desk or other tabletop surface and remain
+connected to a power supply throughout testing.
+Position your table and chair so the door to the room will be visible to the proctor. The
+proctor may require you to do this at check in.
+The tabletop and surrounding area need to be clear of all items not approved for use
+during the test, including cell phones (except when used for check in; after check in, you
+should put it away somewhere inaccessible), cameras, notes and study materials. The
+furniture and décor in the room don't need to be removed.
+You’ll need to sit in a standard chair; you can't sit or lie on a bed, couch or overstuffed
+chair.
+https://www.ets.org/toefl/test-takers/ibt/register/at-home-requirements.html#accordion-417d2893cc-item-acdaa51b1c 6/9
+2/18/25, 2:27 PM At Home Testing Requirements for the TOEFL iBT Test
+Food and drink aren't allowed during the test.
+Clothing and appearance
+Your ears and face need to remain visible throughout the test, not covered by a hat, hair
+or other items. Religious headwear is permitted if your ears remain visible during the test.
+Face masks may not be worn during check in or any part of the at home testing session.
+Dress appropriately for your test. You'll be monitored via camera by the proctor, and your
+photo will be shared with institutions that receive your scores.
+You’ll need to remove all headphones, smartwatches, face masks, jewelry, tie clips, cuff
+links, ornate clips, combs, barrettes, headbands and other hair accessories before
+checking in for your exam. You do not need to remove wedding and engagement rings.
+Note-taking materials
+For security purposes, you may not take notes on paper.
+You may use one of the following to take notes:
+one small desktop whiteboard with erasable marker, no pencil or pen
+one sheet of paper inside a transparent sheet protector, with erasable marker
+At the end of the test, you'll need to show the proctor that all notes have been erased.
+https://www.ets.org/toefl/test-takers/ibt/register/at-home-requirements.html#accordion-417d2893cc-item-acdaa51b1c 7/9
+2/18/25, 2:27 PM At Home Testing Requirements for the TOEFL iBT Test
+Sign up for TOEFL updates
+Stay up to date with the latest TOEFL news, announcements and articles
+SIGN UP FOR UPDATES
+ABOUT ETS COMPANY
+About Assessment Products
+Careers ETS Solutions
+Disability Services ETS Research Institute
+News
+CEO Corner
+PRODUCTS SUBSIDIARIES
+TOEFL PSI
+TOEIC Edusoft
+GRE Kira Talent
+Praxis Pipplet
+View All Vericant
+https://www.ets.org/toefl/test-takers/ibt/register/at-home-requirements.html#accordion-417d2893cc-item-acdaa51b1c 8/9
+2/18/25, 2:27 PM At Home Testing Requirements for the TOEFL iBT Test
+Wheebox
+What are you looking for?
+Copyright © 2025 by ETS. All trademarks are the property of their respective owners.
+Legal Privacy & Security ETS Trademarks Consumer Health Data Privacy Policy
+Title VI Compliance Statement
+https://www.ets.org/toefl/test-takers/ibt/register/at-home-requirements.html#accordion-417d2893cc-item-acdaa51b1c 9/9
+
+
+
+
+
+11/13/24, 1:12 PM TOEFL iBT Test Content
+®
+TOEFL iBT
+The premier test of academic English communication
+TOEFL iBT Test Content
+The TOEFL iBT test has four sections: Reading, Listening, Speaking and Writing.
+Test time
+The total test takes just under 2 hours to complete, but you should plan for 2.5 hours, allowing 30
+minutes for check in.
+Test sections overview
+Use the table below to view the breakdown of each TOEFL iBT test section.
+Estimated
+Section Questions/Tasks Description
+Timing
+Reading 35 minutes 20 questions Read passages and respond to questions.
+Answer questions about brief lectures or
+Listening 36 minutes 28 questions
+classroom discussions.
+Talk about a familiar topic and discuss
+Speaking 16 minutes 4 tasks
+material you read and heard.
+Read a passage, listen to a recording, type
+your response.
+Writing 29 minutes 2 tasks
+State and support an opinion in an online
+classroom discussion.
+https://www.ets.org/toefl/test-takers/ibt/about/content.html 1/4
+11/13/24, 1:12 PM TOEFL iBT Test Content
+To receive o cial scores, you must answer at least one question each in the Reading and
+Listening sections, and complete at least one Speaking task and one Writing task.
+Learn more about each test section
+Take a closer look at each section of the test.
+Reading
+Listening
+Speaking
+Writing
+https://www.ets.org/toefl/test-takers/ibt/about/content.html 2/4
+
+
+
+
+
+2/18/25, 2:23 PM ID Requirements for the TOEFL iBT Test
+®
+TOEFL iBT
+The premier test of academic English communication
+Identification (ID) Requirements for the TOEFL iBT Test
+The name you use when registering
+When you create your ETS account and register for your test, it’s important to make sure that the
+name you use exactly matches the name on the identification (ID) information you plan to use on the
+day of your test. If this information doesn't match, you won't be able to take the test, and your test fee
+won't be refunded. If you’re concerned about a discrepancy, contact TOEFL® Services before you
+register. TOEFL Services can also help if your name changes after you register.
+How to enter your name
+The first and last name you use when you register — and the spelling of that name —
+must exactly match (excluding accents) the name printed on the ID you’ll present on the
+day of your test.
+Provide your entire first (given) name (excluding accents). Don’t register under a
+nickname or with only an initial as your first name.
+Supply your entire last (family/surname) name. If you have a two-part first or last name,
+supply your complete last name as it appears on the ID (excluding accents) that you’ll
+present on the day of the test. For example, a last name of Fernandez de Córdova would
+be entered as Fernandez de Cordova.
+You have the option to include your middle initial, but it’s not a requirement.
+https://www.ets.org/toefl/test-takers/ibt/register/id.html#accordion-5889dc564c-item-4383009497 1/8
+2/18/25, 2:23 PM ID Requirements for the TOEFL iBT Test
+If you register by phone, make sure you’re registered under your entire first and last
+names as they appear on your ID (excluding accents).
+Already have an account?
+If you already have an ETS account, confirm that the name on your ID still matches the name
+that appears in your account (excluding accents). If they don’t, contact TOEFL Services.
+Your ID requirements
+Your ID requirements depend on where you plan to take the test and your citizenship. If testing
+at home, you’re required to present valid government-issued ID.
+Review the general ID requirements below, then select the country/location where you plan to test to
+see specific ID requirements.
+General ID document requirements
+With few exceptions, ID documents must meet all of the following requirements. Each ID document
+must:
+be an original document; photocopied documents are not acceptable
+be a physical ID; a digital ID issued to a mobile phone or any other electronic device is not
+acceptable, except in the Republic of Korea, where some digital IDs are permitted
+be a government-issued national/state/province identity card that is issued and recognized by
+the country where you are a citizen or resident
+be valid; expired documents are not acceptable
+include your full name and date of birth exactly matching the name and date of birth you used
+to register, excluding accents or diacritical marks
+include a recent, recognizable photograph
+include your signature (the name on the ID and the signature name must match)
+https://www.ets.org/toefl/test-takers/ibt/register/id.html#accordion-5889dc564c-item-4383009497 2/8
+2/18/25, 2:23 PM ID Requirements for the TOEFL iBT Test
+Test takers 15 years of age or younger
+If you are age 15 or younger when you take the test, we suggest that you be accompanied by a
+parent or other authorized adult age 18 or older, who will be required to complete and sign a
+release form at the test center.
+Both you and the parent or authorized adult must present valid, acceptable ID, or you will not
+be able to take the test. If you are unable to meet the ID requirements, contact the Office of
+Testing Integrity (OTI) before you register for the test.
+ID requirements in the country/location where you plan to test
+Select the country/location where you plan to take the test to see information about specific ID
+requirements.
+Country List
+Additional requirements and policies
+Unacceptable ID documents
+The following documents are not acceptable as primary or supplemental ID under any
+circumstances:
+International driver's license
+Draft classification card
+International student ID
+Credit/debit card of any kind
+Notary-prepared letter or document
+https://www.ets.org/toefl/test-takers/ibt/register/id.html#accordion-5889dc564c-item-4383009497 3/8
+2/18/25, 2:23 PM ID Requirements for the TOEFL iBT Test
+Birth certificate
+Social Security card
+Employee ID card
+Any temporary ID card
+Diplomatic, consulate or embassy ID card
+If your ID document is not written in English-language letters and the test center administrator
+cannot read it, you may not be able to take the test, and your test fee will not be refunded.
+Supplemental ID documents
+You might have to provide a supplemental ID document if:
+the proctor questions your primary ID document
+your primary ID document is otherwise acceptable but is missing your full name,
+photograph or signature
+You can't use supplemental ID documents to resolve last-name discrepancies; you’ll need
+to contact TOEFL Services before test day to resolve.
+If you can't provide acceptable supplemental ID (see below) that includes your signature, you
+can present two government-issued IDs with photographs, as long as they use the same name
+you used when you registered.
+Acceptable supplemental ID
+The following ID documents are generally acceptable as supplemental ID:
+Government-issued ID card (including, but not limited to, those listed under Acceptable
+Primary ID Documents)
+Student ID card
+https://www.ets.org/toefl/test-takers/ibt/register/id.html#accordion-5889dc564c-item-4383009497 4/8
+2/18/25, 2:23 PM ID Requirements for the TOEFL iBT Test
+Confirmation of identity letter from your educational institution. This letter must be
+typed or printed on the original letterhead of the educational institution you attend(ed)
+and, in addition to meeting all of the ID Document Requirements, must include your date
+of birth and the date issued. Additionally, a school official's signature and the school seal
+must be present and both must overlap your photograph, as shown below. Such letters
+are valid for only 1 year from the date issued.
+Driver's license renewals
+If you are in the U.S. military and the expiration of your driver's license has been
+extended or deferred by the issuing state, it can be used as supplemental ID along
+with your U.S. military ID card. Depending on the state, the extension or deferral may
+consist of a sticker on the license, the designation "military" printed in place of an
+expiration date, or a separate document carried with the license, usually with a
+notation that the license is valid for a specific amount of time after discharge from
+service.
+If your driver's license has expired but you present it along with your Original
+Department of Public Safety renewal certificate, the two documents together can
+be accepted if the names match exactly. If you have a temporary paper license
+instead of a renewal certificate, that is acceptable only if it is accompanied by an
+acceptable supplemental ID.
+Unable to meet ID requirements
+If you have been granted political asylum, have refugee status or are otherwise unable to meet
+the ID requirements, you must contact the ETS Office of Testing Integrity (OTI) at least 7 days
+before you register. You must receive approval from OTI before you register. Be prepared to
+https://www.ets.org/toefl/test-takers/ibt/register/id.html#accordion-5889dc564c-item-4383009497 5/8
+2/18/25, 2:23 PM ID Requirements for the TOEFL iBT Test
+submit any requested documents for review. If you don't contact OTI and as a result you can't
+take the test or your scores are held or cancelled, your test fee will not be refunded.
+ETS Office of Testing Integrity (OTI)
+Email: Office of Testing Integrity (OTI)
+1-609-406-5430
+Phone:
+(Monday–Friday, 7:30 a.m.–5:30 p.m. U.S. Eastern time, except U.S. holidays)
+Fax: 1-609-406-9709
+Questions about ID documents
+For general questions about acceptable ID, call TOEFL Services at:
+1-877-863-3546 (United States, U.S. Virgin Islands, Puerto Rico and Canada)
+1-609-771-7100 (all other locations)
+Sign up for TOEFL updates
+Stay up to date with the latest TOEFL news, announcements and articles
+SIGN UP FOR UPDATES
+https://www.ets.org/toefl/test-takers/ibt/register/id.html#accordion-5889dc564c-item-4383009497 6/8
+2/18/25, 2:23 PM ID Requirements for the TOEFL iBT Test
+ABOUT ETS COMPANY
+About Assessment Products
+Careers ETS Solutions
+Disability Services ETS Research Institute
+News
+CEO Corner
+PRODUCTS SUBSIDIARIES
+TOEFL PSI
+TOEIC Edusoft
+GRE Kira Talent
+Praxis Pipplet
+View All Vericant
+Wheebox
+What are you looking for?
+Copyright © 2025 by ETS. All trademarks are the property of their respective owners.
+Legal Privacy & Security ETS Trademarks Consumer Health Data Privacy Policy
+Title VI Compliance Statement
+https://www.ets.org/toefl/test-takers/ibt/register/id.html#accordion-5889dc564c-item-4383009497 7/8
+2/18/25, 2:23 PM ID Requirements for the TOEFL iBT Test
+https://www.ets.org/toefl/test-takers/ibt/register/id.html#accordion-5889dc564c-item-4383009497 8/8
+
+
+
+
+
+Customer-Facing FAQs
+Overview
+Q: Why should I take the TOEFL iBT Home Edition?
+• ⁠Convenience: Use equipment you're familiar with in the comfort of your own home.
+• Privacy: Reduced noise and distraction during the speaking portion of the test.
+• ⁠Streamlined: Enjoy an improved test experience with a simplified, intuitive interface.
+• Trust: The enhanced experience provides a fair, secure testing environment that protects
+your integrity and hard work.
+• Ease: Convenient, flexible test registration.
+Q: What should I do to prepare for my TOEFL iBT Home Edition?
+Before Test Day
+Visit the [My TOEFL Home] dashboard and complete the following:
+• Download the TOEFL® Test App and check your software.
+o Complete the system check at least 48 hours before your test.
+• Review important rules and guidelines.
+• Read the test day requirements and room setup instructions.
+• Verify you have all the acceptable items ready.
+• Regularly check the [My TOEFL Home] dashboard for important information regarding
+your test.
+On Test Day
+Make sure you have:
+• Valid ID matching your registration name (check ID requirements).
+• Desktop or laptop computer.
+• Secondary device for room monitoring.
+• Both devices fully charged and connected to a power source.
+• Organized workspace that has only acceptable items as outlined by our guidelines.
+Q: What’s the My TOEFL Home dashboard?
+The My TOEFL Home dashboard is a centralized hub on the TOEFL website where you can:
+• Download and install the TOEFL Test App.
+• Launch the TOEFL Test App if installed.
+• Access help resources including tutorials.
+• Track your test preparation progress.
+• Reschedule your test.
+Q: How do I access the My TOEFL Home dashboard?
+• Log into your account through the TOEFL homepage.
+Q: What TOEFL iBT Home Edition tutorials are available?
+The My TOEFL Home dashboard includes instructional videos that show how to:
+• [Prepare for the test by reviewing the General Test Rules & Guidelines].
+• [Install and open the TOEFL Test App].
+• [Set up your second camera using a mobile device].
+TOEFL Test App
+Q: What’s the TOEFL Test App?
+• The TOEFL Test App is a single application that guides you through the TOEFL Home
+Edition experience.
+Q: How do I install the new TOEFL Test App?
+• Go to the [My TOEFL Home dashboard] to download the app. Under Upcoming Tests,
+select Install the TOEFL Test App.
+• Selecting this button opens a pop-up to download the app for your operating system,
+either Windows or Mac.
+• If you need help installing the TOEFL Test App, select Learn More for step-by-step
+instructions.
+Q: What are the system requirements for the new TOEFL Test app?
+• Please visit the At Home Testing Requirements for the TOEFL iBT Test website for
+details.
+Q: What should I do if the equipment check fails?
+• Please visit the At Home Testing Equipment Check Support website for tips on how to
+troubleshoot equipment failures.
+Second Camera Requirements
+Q: Why is a second camera required for the TOEFL iBT Home Edition?
+• A second camera ensures a complete view of your testing environment, minimizing
+misunderstandings and providing clear evidence that protects your integrity and hard
+work.
+Q: How do I connect my second camera?
+• Learn how to connect your second camera by watching [this video]. If you have
+registered for the test, make sure to practice setting up your second camera before test
+day.
+Q: What are the second camera mobile device requirements?
+• Working cameras—front and back
+• iOS or Android operating system (minimum versions: iOS 12, Android 8)
+• Charger—the device needs to be plugged in throughout the test
+Q: What happens if the second camera disconnects?
+• During check-in: You will be prompted to rescan the QR code using your mobile
+device.
+• During the test: The proctor will temporarily stop your exam and give you instructions
+on how to reconnect your mobile device.
+Test Day Experience
+Q: What’s the TOEFL iBT Home Edition check-in process like?
+After you go to the My TOEFL Home dashboard and select Start Test, here’s what you’ll do:
+1. Launch the TOEFL Test App.
+2. Enter a virtual waiting room.
+3. Connect your second camera.
+4. Complete a proctor-assisted identity verification process.
+5. Scan your room for the proctor.
+Q: What if I have technical issues during the test?
+Some of the ways the TOEFL team supports you if you have technical issues during the test,
+include:
+• Real-time proctor support.
+• Clear messaging.
+• Reconnection attempts.
+• Saving your progress.
+• Features to help recover your work.
+Overview
+Q: Why should I take TOEFL iBT Home Edition?
+• ⁠Convenience: Use equipment you're familiar with in the comfort of your own home.
+• Privacy: Reduced noise and distraction during the speaking portion of the test.
+• ⁠Optimization: Enjoy an improved test experience with a simplified, intuitive interface.
+• Trust: The enhanced experience provides a fair, secure testing environment that protects
+your integrity and hard work.
+• Ease: Convenient, flexible test registration.
+Q: What should I do to prepare for my TOEFL iBT Home Edition?
+Before Test Day
+Visit the [My TOEFL Home] dashboard and complete the following:
+• Complete the identity verification process using the ENTRUST app.
+• Download the TOEFL® Test App and check your software.
+o Complete the system check at least 48 hours before your test.
+• Review important rules and guidelines.
+• Read the test day requirements and room setup instructions.
+• Verify you have all the acceptable items ready.
+• Regularly check the [My TOEFL Home] dashboard for important information regarding
+your test.
+On Test Day
+Make sure you have:
+• Valid ID matching your registration name (check ID requirements).
+• Desktop or laptop computer.
+• Secondary device for room monitoring.
+• Both devices fully charged and connected to a power source.
+• Organized workspace that has only acceptable items as outlined by our guidelines.
+Q: What’s the My TOEFL Home dashboard?
+The My TOEFL Home dashboard is a centralized hub on the TOEFL website where you can:
+• Download and install the TOEFL Test App.
+• Launch the TOEFL Test App if installed.
+• Download the ENTRUST mobile app for identity (ID) verification [download the app
+now].
+• Access help resources including tutorials.
+• Track your test preparation progress.
+• Reschedule your test.
+Q: How do I access the My TOEFL Home dashboard?
+• Log into your account through the TOEFL homepage.
+Q: What TOEFL iBT Home Edition tutorials are available?
+The My TOEFL Home dashboard includes instructional videos that show how to:
+• [Prepare for the test by reviewing the General Test Rules & Guidelines].
+• [Verify your identity using the ENTRUST mobile app].
+• [Install and open the TOEFL Test App].
+• [Set up your second camera using a mobile device].
+ID Verification Process
+Q: How do I verify my identity (ID) using the new two-step identity verification process?
+Before Test Day:
+• Verify your passport, government issued ID, or driver’s license and upload your picture
+using the ENTRUST mobile app.
+• To download the app, go to the My TOEFL Home dashboard. Under Upcoming Tests,
+select Verify ID using ENTRUST App or scan the QR code in your registration email.
+• Complete the verification process 48 hours before the test.
+• To learn more about the identity verification process, watch [this video].
+Test Day Check-In:
+• Your identity will be matched with your pre-verified identity, and the proctor will
+confirm it.
+Q: What happens if I don’t complete the ID verification process before test day?
+• You may need to arrive early on test day because you must complete the verification
+process before checking-in.
+• Verifying your identity will take additional time, so failing to do so before test day may
+delay the start of your test.
+Q: What happens if the ID verification process fails?
+• This will depend on the reason for failure. You may be asked to verify your identity
+again, or you may be required to contact support and provide additional verification.
+Q: How long is my ID verification valid?
+• ID verification is valid for up to 6 months after you’ve successfully verified your identity.
+• If your passport, government ID, or driver’s license expires before your test date, you
+will need to verify your identity again.
+Q: What if the ENTRUST app is not able to verify identification documents from my
+country?
+• On test day, you will need to show your passport, government ID, or driver’s license to
+the proctor.
+• The proctor will then complete the ID verification process.
+TOEFL Test App
+Q: What’s the TOEFL Test App?
+• The TOEFL Test App replaces the previous ETS Secure Browser, bringing you the same
+secure experience with a fresh new look.
+Q: What are the system requirements for the new TOEFL Test app?
+• Please visit the At Home Testing Requirements for the TOEFL iBT Test website for
+details.
+Q: What should I do if the equipment check fails?
+• Please visit the At Home Testing Equipment Check Support website for tips on how to
+troubleshoot equipment failures.
+Q: How do I install the new TOEFL Test App?
+• Go to the My TOEFL Home dashboard to download the app. Under Upcoming Tests,
+select Install the TOEFL Test App.
+• Selecting this button opens a pop-up to download the app for your operating system,
+either Windows or Mac.
+• If you need help installing the TOEFL Test App, select Learn More for step-by-step
+instructions.
+Note to internal team: We will not be providing a link in their email at this time.
+Second Camera Requirements
+Q: Why is a second camera required for the TOEFL iBT Home Edition?
+• A second camera ensures a complete view of your testing environment, minimizing
+misunderstandings and providing clear evidence that protects your integrity and hard
+work.
+Q: How do I connect my second camera?
+• Learn how to connect your second camera by watching [this video]. If you have
+registered for the test, make sure to practice setting up your second camera before test
+day.
+Q: What are the second camera mobile device requirements?
+• Working cameras—front and back
+• iOS or Android operating system (minimum versions: iOS 12, Android 8)
+• Charger—the device needs to be plugged in throughout the test
+Q: What happens if the second camera disconnects?
+• During check-in: You will be prompted to rescan the QR code using your mobile
+device.
+• During the test: The proctor will temporarily stop your exam and give you instructions
+on how to reconnect your mobile device.
+Test Day Experience
+Q: What’s the TOEFL iBT Home Edition check-in process like?
+After you go to the My TOEFL Home dashboard and select Start Test, here’s what you’ll do:
+1. Launch the TOEFL Test App.
+2. Enter a virtual waiting room.
+3. Connect your second camera.
+4. Complete a proctor-assisted identity verification process.
+5. Scan your room for the proctor.
+Q: What if I have technical issues during the test?
+Some of the ways the TOEFL team supports you if you have technical issues during the test,
+include:
+• Real-time proctor support.
+• Clear messaging.
+• Reconnection attempts.
+• Saving your progress.
+• Features to help recover your work.
+
+
+
+
+
+2/18/25, 2:30 PM At Home Testing Equipment Check Support | ETS
+MENU Register | Login
+ETS At Home Testing Equipment Check Support
+At Home Testing Equipment Check Support
+Learn how to resolve issues and get help if your equipment check has failed for the at
+home tests for GRE®, Praxis®, SLS or TOEFL® tests, when taking them on a computer with
+Mac® OS or Windows®. Get troubleshooting tips to help resolve failures with your webcam,
+microphone, network, system and other equipment when testing at home.
+When to run your equipment check
+You should complete the ETS Secure Browser Equipment Check before your test
+appointment to help ensure you’ll have the best at home testing experience.
+If possible, you should run the Equipment Check on the same day of the week and at
+the same time as your future test appointment to simulate the bandwidth demands
+you’ll experience on test day.
+Need to run your equipment check? Follow these
+steps first
+Confirm your computer meets equipment requirements
+Download the ETS Secure Browser by selecting one of the links below.
+®
+Download the Mac OS version
+®
+Download the Windows version
+https://www.ets.org/at-home-equipment-check.html#accordion-aea8d2dfd4-item-b16bcc448d 1/12
+2/18/25, 2:30 PM At Home Testing Equipment Check Support | ETS
+Then run the file to complete the installation. While in the browser, click the
+Register | Login
+Equipment Check button to confirm that your equipment is ready for test day.
+How to run the Equipment Check (with screenshots)
+View the screenshots below to learn what you can expect when running the ETS
+Secure Browser.
+Once you open the ETS Secure Browser, you’ll be brought to this welcome screen.
+From here, you can run the Equipment Check.
+https://www.ets.org/at-home-equipment-check.html#accordion-aea8d2dfd4-item-b16bcc448d 2/12
+2/18/25, 2:30 PM At Home Testing Equipment Check Support | ETS
+Register | Login
+Upon completion of the Equipment Check, you’ll see the status of your equipment.
+If any parts have failed, you’ll see a red triangle status indicator, as well as tips for
+how to resolve the problem.
+The equipment check includes a bandwidth check. Since bandwidth differs
+depending on time of day and network usage, run the equipment check at several
+different times to see which time works best. Additionally, you should run the
+check on the same day of the week and the same time of day as your test. That
+way, you're checking your bandwidth in an environment similar to what you would
+experience when you test.
+https://www.ets.org/at-home-equipment-check.html#accordion-aea8d2dfd4-item-b16bcc448d 3/12
+2/18/25, 2:30 PM At Home Testing Equipment Check Support | ETS
+Register | Login
+When you have successfully passed the equipment check, you’ll arrive at the
+Congratulations page.
+What to do if your equipment check has failed
+If your equipment has failed the equipment check, follow these steps to resolve the issue
+and try running the check again.
+®
+Using Microsoft Windows
+Webcam Check failed
+Make sure that the desired webcam device is enabled in the Control Panel >
+Device Manager > Cameras
+https://www.ets.org/at-home-equipment-check.html#accordion-aea8d2dfd4-item-b16bcc448d 4/12
+2/18/25, 2:30 PM At Home Testing Equipment Check Support | ETS
+Windows 10 users: Make sure “Allow access to the camera on this device”
+Register | Login
+and ”Allow apps to access your camera” are both turned ON in Start >
+Settings > Privacy > Camera
+Windows 11 users: Make sure “Camera Access” and “Let desktop apps
+access your camera” are both turned ON in Start > Settings > Privacy &
+security > Camera
+Microphone Check failed
+Make sure that the desired audio device is enabled in the Control Panel >
+Device Manager > Sound video and game controllers
+Windows 10 users: Make sure “Allow access to the microphone on this
+device” and “Allow apps to access your microphone” are both turned ON in
+Start > Settings > Privacy > Microphone
+Windows 11 users: Make sure “microphone access” and “Let desktop apps
+access your microphone” are both turned ON in Start > Settings > Privacy &
+security > Microphone
+System Check failed
+Monitor width or height – Adjust your Display Resolution so that both the
+width and height match or exceed the minimum values specified in the failure
+message.
+You can access the Display Resolution by selecting Start > Settings >
+System > Display or by searching for “Display Resolution” from the
+Windows menu.
+Monitor count – Only one monitor is allowed during the test. Make sure that
+any additional monitors are disconnected or disabled.
+CPU core count – Failure message: “The CPU chip on your computer system
+motherboard does not meet the minimum requirements to take this exam.”
+What to do: You’ll need to use a different computer to take the test.
+https://www.ets.org/at-home-equipment-check.html#accordion-aea8d2dfd4-item-b16bcc448d 5/12
+2/18/25, 2:30 PM At Home Testing Equipment Check Support | ETS
+RAM size – Failure message: “Memory installed on your computer does not
+Register | Login
+meet the minimum requirements to take this exam.”
+What to do: You’ll need a different computer to take the test unless you
+can add sufficient RAM (hardware memory) to this computer.
+RAM usage – Failure message: “Computer memory usage is above the
+maximum threshold to take this exam.”
+What do to: Try shutting down all unnecessary applications to reduce your
+memory use.
+Operating system – Failure message: “Your computer’s operating system
+does not meet the minimum requirements to take this test.”
+What do to: You’ll need a different computer to take the test unless you
+can upgrade your operating system to one of the required versions.
+Network Check failed
+Try moving closer to your Wi-Fi device/router to improve your internet
+connectivity.
+Reboot your Wi-Fi device/router, if possible, and recheck.
+If other users share your internet service, see if they can reduce their usage to
+improve your bandwidth.
+Try connecting to the internet using ethernet (with a cable to your router)
+instead of using Wi-Fi.
+Use an alternate source/service provider for your internet connectivity.
+Software Check failed
+Failure message: “The Equipment Check has detected restricted applications
+running on your computer.”
+Running applications such as remote access, screen sharing, image capturing or
+virtual systems on your computer while taking the exam is strictly prohibited. If
+https://www.ets.org/at-home-equipment-check.html#accordion-aea8d2dfd4-item-b16bcc448d 6/12
+2/18/25, 2:30 PM At Home Testing Equipment Check Support | ETS
+one of these applications is detected at any time while you’re testing, your exam
+Register | Login
+will automatically be terminated, you won’t be able to test and won’t receive a
+refund.
+What to do:
+Make sure all applications are closed so they are not running before or while
+taking the exam.
+Ensure applications aren’t in sleep mode or scheduled to restart during your
+test.
+If any applications can’t be turned off for the entirety of your test appointment,
+fully disable or uninstall these applications ahead of your exam day.
+®
+Using Mac OS
+Webcam Check failed
+Choose Apple® menu > System Preferences, then click Security & Privacy in
+the sidebar. (You may need to scroll down.)
+Click Camera and turn access to the camera on for the ETS-RP-PROD app in
+the list.
+Microphone Check failed
+Choose Apple menu > System Preferences, then click Security & Privacy in
+the sidebar. (You may need to scroll down.)
+Click Microphone and turn access to the microphone on for the ETS-RP-
+PROD app in the list.
+https://www.ets.org/at-home-equipment-check.html#accordion-aea8d2dfd4-item-b16bcc448d 7/12
+2/18/25, 2:30 PM At Home Testing Equipment Check Support | ETS
+System Check failed Register | Login
+Monitor width or height – Adjust your Display Settings so that a value higher
+than the minimum value specified in System Results column is selected in the
+computer Display Resolution.
+You can access the Display Resolution setting by choosing Apple menu >
+System Preferences, then click Displays in the sidebar. (You may need to
+scroll down.) When your Mac is connected to an external display, click its
+name on the right to set options.
+Monitor count – Only one monitor is allowed during the test. Make sure that
+any additional monitors are disconnected or disabled.
+CPU core count – Failure message: “The CPU chip on your computer system
+motherboard does not meet the minimum requirements to take this exam.”
+What to do: You’ll need a different computer to take the test.
+RAM size – Failure message: “Memory installed on your computer does not
+meet the minimum requirements to take this exam.”
+What to do: You’ll need a different computer to take the test unless you
+can add sufficient RAM (hardware memory) to this computer.
+RAM usage – Failure message: “Computer memory usage is above the
+maximum threshold to take this exam.”
+What to do: Try shutting down all unnecessary applications to reduce your
+memory use.
+Operating system – Failure message: “Your computer’s operating system
+does not meet the minimum requirements to take this test.”
+What to do: You’ll need a different computer to take the test unless you
+can upgrade your operating system to one of the required versions.
+Network Check failed
+Try moving closer to your Wi-Fi device/router to improve your internet
+connectivity.
+https://www.ets.org/at-home-equipment-check.html#accordion-aea8d2dfd4-item-b16bcc448d 8/12
+2/18/25, 2:30 PM At Home Testing Equipment Check Support | ETS
+Reboot your Wi-Fi device/router, if possible, and recheck.
+Register | Login
+If other users share your internet service, see if they can reduce their usage to
+improve your bandwidth.
+Try connecting to the internet using ethernet (with a cable to your router)
+instead of using Wi-Fi.
+Use an alternate source/service provider for your internet connectivity.
+Software Check failed
+Failure message: “The Equipment Check has detected restricted applications
+running on your computer.”
+Running applications such as remote access, screen sharing, image capturing or
+virtual systems on your computer while taking the exam is strictly prohibited. If
+one of these applications is detected at any time while you’re testing, your exam
+will automatically be terminated, you won’t be able to test, and you won’t receive a
+refund.
+What to do:
+Make sure all applications are closed so they are not running before or while
+taking the exam.
+Ensure applications aren’t in sleep mode or scheduled to restart during your
+test.
+If any applications can’t be turned off for the entirety of your test appointment,
+fully disable or uninstall these applications ahead of your exam day.
+Additional support
+If you were unable to resolve your issue, contact the proctor service that you were
+assigned for additional support. You can find your proctor service in your confirmation
+email or in your ETS account.
+https://www.ets.org/at-home-equipment-check.html#accordion-aea8d2dfd4-item-b16bcc448d 9/12
+2/18/25, 2:30 PM At Home Testing Equipment Check Support | ETS
+®
+Contact Meazure Learning (formerly ProctorU )
+Register | Login
+Live Chat: Live Chat
+Phone: 1-855-772-8678
+®
+Contact Examity
+Phone: 1-855-392-6489
+Contact Wheebox
+Click here to get redirected to the support page and use Need Help icon to connect with
+an agent.
+Equipment requirements and other at home test
+information
+If you’re looking for at home testing equipment requirements, test day information or how
+to register, cancel or reschedule your test, visit the links below.
+®
+GRE General Test
+Equipment requirements
+On test day (at home)
+How to register, cancel or reschedule
+GRE Subject tests
+Equipment requirements
+On test day (at home)
+How to register, cancel or reschedule
+®
+Praxis Core and Praxis Subject tests
+Equipment requirements
+On test day (at home)
+How to register, cancel or reschedule
+SLS tests
+Equipment requirements
+https://www.ets.org/at-home-equipment-check.html#accordion-aea8d2dfd4-item-b16bcc448d 10/12
+2/18/25, 2:30 PM At Home Testing Equipment Check Support | ETS
+On test day (at home)
+Register | Login
+How to register, cancel or reschedule
+®
+TOEFL iBT Home Edition
+Equipment requirements
+On test day
+How to register, cancel or reschedule
+®
+TOEFL Essentials™ test
+Equipment requirements
+On test day
+How to register, cancel or reschedule
+Sign up for ETS updates
+Stay up to date with the latest news, announcements and articles
+SIGN UP FOR UPDATES
+ABOUT ETS COMPANY
+About Assessment Products
+Careers ETS Solutions
+https://www.ets.org/at-home-equipment-check.html#accordion-aea8d2dfd4-item-b16bcc448d 11/12
+2/18/25, 2:30 PM At Home Testing Equipment Check Support | ETS
+Disability Services ETS Research Institute
+Register | Login
+News
+CEO Corner
+PRODUCTS SUBSIDIARIES
+TOEFL PSI
+TOEIC Edusoft
+GRE Kira Talent
+Praxis Pipplet
+View All Vericant
+Wheebox
+What are you looking for?
+Copyright © 2025 by ETS. All trademarks are the property of their respective owners.
+Legal Privacy & Security ETS Trademarks Consumer Health Data Privacy Policy
+Title VI Compliance Statement
+https://www.ets.org/at-home-equipment-check.html#accordion-aea8d2dfd4-item-b16bcc448d 12/12
+
+
+
+
+
