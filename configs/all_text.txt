@@ -1433,8 +1433,8 @@ requirements on test day, you won't be able to test. In that event, you won’t 
 free reschedule.
 Confirm your computer meets equipment requirements
 Download the ETS Secure Browser by selecting one of the links below.
-Download the Mac® OS version
-Download the Windows® version
+Download the Mac® OS version(https://ibtprod-rp.ets.org/SoftwareDistribution/rp/PROD/mac/ETS-RP-PROD.dmg)
+Download the Windows® version(https://ibtprod-rp.ets.org/SoftwareDistribution/rp/UnifyRPInstaller/1.2/UnifyRPInstaller_PROD.exe)
 Then run the file to complete the installation. While in the browser, click the Equipment Check
 button to confirm that your equipment is ready for test day.
 How to run the Equipment Check (with screenshots)
